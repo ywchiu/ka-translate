@@ -1,0 +1,1028 @@
+1600-1700 The Baroque	Bernini's David	YKzHdQKX9RA	Chinese Simplified	100
+Calculus	Derivative Intuition Module	HtvikVD9aa0	Chinese Simplified	100
+Calculus	Limit Examples w/ brain malfunction on first prob (part 4)	xjkSE9cPqzo	Chinese Simplified	100
+Calculus	Polynomial approximation of functions (part 1)	sy132cgqaiU	Chinese Simplified	100
+Calculus	The Chain Rule	XIQ-KnsAsbg	Chinese Simplified	100
+Calculus	Optimization with Calculus 3	i8Wtu-kdDC4	Chinese Simplified	100
+Calculus	Introduction to Limits	W0VWO4asgmk	Chinese Simplified	100
+Calculus	Sequences and series (part 2)	U_8GRLJplZg	Chinese Simplified	100
+Calculus	Partial Derivatives	1CMDS4-PKKQ	Chinese Simplified	100
+Calculus	Introduction to Limits (HD)	riXcZT2ICjA	Chinese Simplified	100
+Calculus	L'Hopital's Rule Example 1	BiVOC3WocXs	Chinese Simplified	100
+Calculus	Mean Value Theorem	bGNMXfaNR5Q	Chinese Simplified	100
+Calculus	Solid of Revolution (part 8)	4Flj9plmKGQ	Chinese Simplified	100
+Calculus	Euler's Formula and Euler's Identity	mgNtPOgFje0	Chinese Simplified	100
+Calculus	Introduction to L'Hopital's Rule	PdSzruR5OeE	Chinese Simplified	100
+Exponents and Radicals	Understanding Exponents	mJ1P4A-KA8k	Chinese Simplified	100
+Exponents and Radicals	Understanding Exponents 2	5qfOViJda_g	Chinese Simplified	100
+New and Noteworthy	Primaries and Caucuses	z_QeYCg4yJ8	Chinese Simplified	100
+New and Noteworthy	LeBron asks about the chances of making 10 free throws	iMqCSgqzmiQ	Chinese Simplified	100
+New and Noteworthy	Tau versus Pi	1jDDfkKKgmc	Chinese Simplified	100
+Fractions	Identifying Fraction Parts	-a_w0_VAo6U	Chinese Simplified	100
+Fractions	Equivalent fractions	U2ovEuEUxXQ	Chinese Simplified	100
+Fractions	Numerator and Denominator of a Fraction	3XOt1fjWKi8	Chinese Simplified	100
+Fractions	Coverting Repeating Decimals to Fractions 2	Ihws0d-WLzU	Chinese Simplified	100
+Fractions	Adding and subtracting fractions	52ZlXsFJULI	Chinese Simplified	100
+Fractions	Converting fractions to decimals	Gn2pdkvdbGQ	Chinese Simplified	100
+Fractions	Comparing Fractions	Io9i1JkKgN4	Chinese Simplified	100
+Fractions	Comparing Fractions 2	2dbasvm3iG0	Chinese Simplified	100
+Fractions	Equivalent Fractions Example	0JW9P_T4P_Y	Chinese Simplified	100
+Fractions	Mixed numbers and improper fractions	1xuf6ZKF1_I	Chinese Simplified	100
+Problem Solving	GMAT Math: 1	jciijU8Mj_Y	Chinese Simplified	100
+Organic Chemistry	Naming Simple Alkanes	NRFPvLp3r3g	Chinese Simplified	100
+Organic Chemistry	Acid Chloride Formation	XKk9K5xTgDA	Chinese Simplified	100
+Organic Chemistry	Organic Chemistry Naming Examples 2	CJRQ8gOjq4E	Chinese Simplified	100
+Organic Chemistry	Representing Structures of Organic Molecules	pMoA65Dj-zk	Chinese Simplified	100
+Organic Chemistry	More Organic Chemistry Naming Examples 1	96D7RHUQvMA	Chinese Simplified	100
+Organic Chemistry	sp3 Hybridized Orbitals and Sigma Bonds	u1eGSL6J6Fo	Chinese Simplified	100
+Organic Chemistry	Organic Chemistry Naming Examples 5	6BR0Q5e74bs	Chinese Simplified	100
+Organic Chemistry	Naming Alkyl Halides	jiJdNWzETSk	Chinese Simplified	100
+Organic Chemistry	Chair and Boat Shapes for Cyclohexane	YUEkOBvJSNg	Chinese Simplified	100
+Organic Chemistry	Pi bonds and sp2 Hybridized Orbitals	lJX8DxoPRfk	Chinese Simplified	100
+Organic Chemistry	Newman Projections 2	ryJvNEHcuDg	Chinese Simplified	100
+Organic Chemistry	Common and Systematic Naming-Iso, Sec and Tert Prefixes	TJUm860AjNw	Chinese Simplified	100
+Organic Chemistry	Correction - 2-Propylheptane should never be the name!	CFBKfgGTP98	Chinese Simplified	100
+Organic Chemistry	Organic Chemistry Naming Examples  4	25axjMBeMxE	Chinese Simplified	100
+Organic Chemistry	Organic Chemistry Naming Examples 3	Se-ekDNhCDk	Chinese Simplified	100
+Organic Chemistry	Newman Projections	IkmM4CPnqF0	Chinese Simplified	100
+Organic Chemistry	Naming Alkenes Examples	KWv5PaoHwPA	Chinese Simplified	100
+Organic Chemistry	Double Newman Diagram for Methcyclohexane	I6LsWSXx8fg	Chinese Simplified	100
+American Civics	Deficit and Debt Ceiling	-05OfTp6ZEE	Chinese Simplified	100
+American Civics	SOPA and PIPA	tzqMoOk9NWc	Chinese Simplified	100
+American Civics	Social Security Intro	gLHUCUv1e5Y	Chinese Simplified	100
+American Civics	Primaries and Caucuses	z_QeYCg4yJ8	Chinese Simplified	100
+Computer Science	While Loops in Python	D0Nb2Fs3Q8c	Chinese Simplified	100
+Computer Science	Recursive Fibonacci Example	urPVT1lymzU	Chinese Simplified	100
+Computer Science	Python Lists	zEyEC34MY1A	Chinese Simplified	100
+Computer Science	Introduction to Programs Data Types and Variables	husPzLE6sZc	Chinese Simplified	100
+Computer Science	Binary Numbers	ry1hpm1GXVI	Chinese Simplified	100
+Computer Science	Flowchart for the Factorial Program	EiR6cf8Towc	Chinese Simplified	100
+Computer Science	Python 3 Not Backwards Compatible with Python 2	WT-gS-8p7KA	Chinese Simplified	100
+Computer Science	Exercise - Write a Sorting Function	Qbl-RZS2-4g	Chinese Simplified	100
+Computer Science	Stepping Through the Factorial Program	dn9XjHz33O8	Chinese Simplified	100
+Computer Science	Writing a Simple Factorial Program. (Python 2)	ZyYp1V84Xqc	Chinese Simplified	100
+Differential Equations	What is a differential equation	-_POEWfygmU	Chinese Simplified	100
+Venture Capital and Capital Markets	Going back to the till: Series B	m28RAgUySGQ	Chinese Simplified	100
+Venture Capital and Capital Markets	Getting a seed round from a VC	-hJj5NpWUXQ	Chinese Simplified	100
+ck12.org Algebra 1 Examples	Stem and Leaf Plots	OaJXJduRiIE	Chinese Simplified	100
+Ratios and proportions (basic)	Introduction to Ratios (new HD version)	HpdMJaKaXXc	Chinese Simplified	100
+Graphing linear equations and inequalities	Algebra: Slope	hXP1Gv9IMBo	Chinese Simplified	100
+Graphing linear equations and inequalities	Algebra: Equation of a line	gvwKv6F69F0	Chinese Simplified	100
+Graphing linear equations and inequalities	Algebra: Slope 2	Kk9IDameJXk	Chinese Simplified	100
+Graphing linear equations and inequalities	Slope and Y-intercept Intuition	8sz1IPjBRS8	Chinese Simplified	100
+Polygons, quadrilaterals, and parallelograms	Area of a Parallelogram	tFhBAeZVTMw	Chinese Simplified	100
+Polygons, quadrilaterals, and parallelograms	Area of a Regular Hexagon	LrxZMdQ6tiw	Chinese Simplified	100
+Polygons, quadrilaterals, and parallelograms	Proof - Diagonals of a Parallelogram Bisect Each Other	TErJ-Yr67BI	Chinese Simplified	100
+Polygons, quadrilaterals, and parallelograms	2003 AIME II Problem 7	jpKjXtywTlQ	Chinese Simplified	100
+Polygons, quadrilaterals, and parallelograms	Sum of the exterior angles of convex polygon	W9B3VYdC5T8	Chinese Simplified	100
+Polygons, quadrilaterals, and parallelograms	Proof - Opposite Sides of Parallelogram Congruent	LhrGS4-Dd9I	Chinese Simplified	100
+Polygons, quadrilaterals, and parallelograms	Proof - Rhombus Area Half Product of Diagonal Length	3FManXv4mZM	Chinese Simplified	100
+Polygons, quadrilaterals, and parallelograms	Quadrilateral Overview	Ka82QC4QvGA	Chinese Simplified	100
+Polygons, quadrilaterals, and parallelograms	Sum of Interior Angles of a Polygon	qG3HnRccrQU	Chinese Simplified	100
+Polygons, quadrilaterals, and parallelograms	Quadrilateral Properties	5CeBlu260Rw	Chinese Simplified	100
+Polygons, quadrilaterals, and parallelograms	Rhombus Diagonals	_QTFeOvPcbY	Chinese Simplified	100
+Polygons, quadrilaterals, and parallelograms	Proof - Rhombus Diagonals are Perpendicular Bisectors	GDcVdBAnBdU	Chinese Simplified	100
+Polygons, quadrilaterals, and parallelograms	Problem involving angle derived from square and circle	3n0LvI99-KM	Chinese Simplified	100
+Polygons, quadrilaterals, and parallelograms	Proof - Opposite Angles of Parallelogram Congruent	oIV1zM8qlpk	Chinese Simplified	100
+Absolute value	Absolute Value and Number Lines	frBJEYvyd-8	Chinese Simplified	100
+Absolute value	Absolute Value 1	NvGTCzAfvr0	Chinese Simplified	100
+Absolute value	Absolute Value of Integers	r6hS_8nm1jM	Chinese Simplified	100
+Negative numbers	Adding Negative Numbers	AcpIO62x2oo	Chinese Simplified	100
+Negative numbers	Negative Numbers Introduction	Hlal9ME2Aig	Chinese Simplified	100
+Negative numbers	Adding/Subtracting negative numbers	C38B33ZywWs	Chinese Simplified	100
+Negative numbers	Ordering Negative Numbers	VW6UrPKPInA	Chinese Simplified	100
+Negative numbers	Adding integers with different signs	NrVvu7cM8_o	Chinese Simplified	100
+Brain Teasers	Liar Truthteller Brain Teaser	69rDtSpshAw	Chinese Simplified	100
+Brain Teasers	Blue Forehead Room Solution	-xYkTJFbuM0	Chinese Simplified	100
+Brain Teasers	Forehead Numbers Brain Teaser	jqpQPxWj8gE	Chinese Simplified	100
+Brain Teasers	Light Bulb Switching Brain Teaser	WNhxkpmVQYw	Chinese Simplified	100
+Brain Teasers	Brain Teaser: Blue Forehead Room	rBaCDC52NOY	Chinese Simplified	100
+Brain Teasers	Toggler Brain Teaser	l3OkPYhDi9w	Chinese Simplified	100
+Data Sufficiency	GMAT: Data Sufficiency 3	eg4r1ev0xYs	Chinese Simplified	100
+Data Sufficiency	GMAT: Data Sufficiency 1	GZInN7p1D0M	Chinese Simplified	100
+Data Sufficiency	GMAT: Data Sufficiency 25	kYWBbu-FXV0	Chinese Simplified	100
+Biology	Phases of Meiosis	ijLc52LmFQg	Chinese Simplified	100
+Biology	Anatomy of a Neuron	ob5U8zPbAX4	Chinese Simplified	100
+Biology	Phases of Mitosis	LLKX_4DHE3I	Chinese Simplified	100
+Biology	Introduction to Evolution and Natural Selection	GcjgWov7mTM	Chinese Simplified	100
+Biology	ATP: Adenosine Triphosphate	YQfWiDlFEcA	Chinese Simplified	100
+Biology	Mitosis, Meiosis and Sexual Reproduction	kaSIjIzAtYA	Chinese Simplified	100
+Biology	Variation in a Species	DuArVnT1i-E	Chinese Simplified	100
+Biology	Evolution Clarification	nh1R-gyY7es	Chinese Simplified	100
+Biology	DNA	_-vZ_g7K6P0	Chinese Simplified	100
+Biology	Species	Tmt4zrDK3dA	Chinese Simplified	100
+Biology	Ape Clarification	oFGkYA_diDA	Chinese Simplified	100
+Biology	Intelligent Design and Evolution	qxOEz9aPZNY	Chinese Simplified	100
+Biology	Natural Selection and the Owl Butterfly	dR_BFmDMRaI	Chinese Simplified	100
+Biology	Red blood cells	fLKOBQ6cZHA	Chinese Simplified	100
+Biology	Photosynthesis:  Light Reactions and Photophosphorylation	yfR36PMWegg	Chinese Simplified	100
+Biology	Correction to Sodium and Potassium Pump Video	ye3rTjLCvAU	Chinese Simplified	100
+Biology	Cytotoxic T Cells	oqI4skjr6lQ	Chinese Simplified	100
+Biology	Secondary Active Transport in the Nephron	czY5nyvZ7cU	Chinese Simplified	100
+Biology	Oxidation and Reduction Review From Biological Point-of-View	orI2m6IarJg	Chinese Simplified	100
+Biology	Photosynthesis: Light Reactions 1	GR2GA7chA_c	Chinese Simplified	100
+Biology	Photosynthesis:  Calvin Cycle	slm6D2VEXYs	Chinese Simplified	100
+Biology	CAM Plants	xp6Zj24h8uA	Chinese Simplified	100
+Biology	Circulatory System and the Heart	QhiVnFvshZg	Chinese Simplified	100
+Biology	Krebs / Citric Acid Cycle	juM2ROSLWfw	Chinese Simplified	100
+Biology	Oxidative Phosphorylation and Chemiosmosis	W_Q17tqw_7A	Chinese Simplified	100
+Biology	C-4 Photosynthesis	7ynX_F-SwNY	Chinese Simplified	100
+Biology	Photorespiration	EQvTEFCANTM	Chinese Simplified	100
+Biology	Sodium Potassium Pump	C_H-ONQFjpQ	Chinese Simplified	100
+Biology	Hemoglobin	LWtXthfG9_M	Chinese Simplified	100
+Biology	Diffusion and Osmosis	aubZU0iWtgI	Chinese Simplified	100
+Biology	The Kidney and Nephron	cc8sUv2SuaY	Chinese Simplified	100
+Biology	Electron Transport Chain	mfgCcFXUZRk	Chinese Simplified	100
+Biology	Role of the Sarcoplasmic Reticulum in Muscle Cells	SauhB2fYQkM	Chinese Simplified	100
+Biology	The Lungs and Pulmonary System	SPGRkexI_cs	Chinese Simplified	100
+Biology	Professional Antigen Presenting Cells (APC) and MHC II complexes	j_kSmmEpvQk	Chinese Simplified	100
+Biology	Helper T Cells	uwMYpTYsNZM	Chinese Simplified	100
+Biology	Role of Phagocytes in Innate or Nonspecific Immunity	O1N2rENXq_Y	Chinese Simplified	100
+Factors and multiples	Prime Numbers	mIStB5X4U8M	Chinese Simplified	100
+Addition and subtraction	Adding/Subtracting negative numbers	C38B33ZywWs	Chinese Simplified	100
+Addition and subtraction	Subtraction 3:  Introduction to Borrowing or Regrouping	ZaqOUE3H1mE	Chinese Simplified	100
+Addition and subtraction	Negative Numbers Introduction	Hlal9ME2Aig	Chinese Simplified	100
+Addition and subtraction	Basic Subtraction	aNqG4ChKShI	Chinese Simplified	100
+Addition and subtraction	Addition 2	t2L3JFOqTEk	Chinese Simplified	100
+Addition and subtraction	Adding Whole Numbers and Applications 1	b22tMEc6Kko	Chinese Simplified	100
+Addition and subtraction	u09 l1 t2 we4 Adding Real Numbers Application	fFdOr8U4mnI	Chinese Simplified	100
+Addition and subtraction	Adding Negative Numbers	AcpIO62x2oo	Chinese Simplified	100
+Addition and subtraction	Why borrowing works	fWan_T0enj4	Chinese Simplified	100
+Addition and subtraction	Subtracting Whole Numbers	sAw71J2kYJE	Chinese Simplified	100
+Addition and subtraction	Alternate mental subtraction method	GBtcGO44e-A	Chinese Simplified	100
+Addition and subtraction	Addition 3	e_SpXIw_Qts	Chinese Simplified	100
+Addition and subtraction	Addition 4	fOXo4p4WDKM	Chinese Simplified	100
+Addition and subtraction	Level 4 Subtraction	omUfrXtHtN0	Chinese Simplified	100
+Addition and subtraction	Subtraction Word Problem	QY8vv7eVVJE	Chinese Simplified	100
+Addition and subtraction	Subtraction 2	incKJchBCLo	Chinese Simplified	100
+Addition and subtraction	Level 2 Addition	27Kp7HJYj2c	Chinese Simplified	100
+Addition and subtraction	Basic Addition	AuX7nPBqDts	Chinese Simplified	100
+Addition and subtraction	Adding integers with different signs	NrVvu7cM8_o	Chinese Simplified	100
+Banking and Money	Banking 5: Introduction to Bank Notes	cNFLqhU4MN0	Chinese Simplified	100
+Banking and Money	Banking 3: Fractional Reserve Banking	nH2-37rTA8U	Chinese Simplified	100
+Banking and Money	Banking 4: Multiplier effect and the money supply	F7r7l1VG-Tw	Chinese Simplified	100
+Banking and Money	LIBOR	wBCowBiXV7A	Chinese Simplified	100
+Banking and Money	Banking 7: Giving out loans without giving out gold	On3c86V5A_E	Chinese Simplified	100
+Algebra I	CA Algebra I: Simplifying Expressions	Hfihqi82M4A	Chinese Simplified	100
+Functions	Functions (Part III)	5fcRSie63Hs	Chinese Simplified	100
+Functions	Functions Part 2	XEblO51pF5I	Chinese Simplified	100
+Functions	Functions (part 4)	rbt51hXmzig	Chinese Simplified	100
+Functions	Introduction to Function Inverses	W84lObmOp8M	Chinese Simplified	100
+Functions	Introduction to functions	VhokQhjl5t0	Chinese Simplified	100
+Functions	Linear Algebra: Introduction to the inverse of a function	-eAzhBZgq28	Chinese Simplified	100
+Functions	Proof by Induction	wblW_M_HVQ8	Chinese Simplified	100
+Functions	Function Inverses Example 3	Bq9cq9FZuNM	Chinese Simplified	100
+Functions	Domain of a function	U-k5N1WPk4g	Chinese Simplified	100
+Functions	A more formal understanding of functions	BQMyeQOLvpg	Chinese Simplified	100
+Decimals	Percent and decimals	RvtdJnYFNhc	Chinese Simplified	100
+Decimals	Coverting Repeating Decimals to Fractions 2	Ihws0d-WLzU	Chinese Simplified	100
+Decimals	Converting fractions to decimals	Gn2pdkvdbGQ	Chinese Simplified	100
+Decimals	Subtracting decimals (old)	0mOH-qNGM7M	Chinese Simplified	100
+Core Finance	Cash Accounting	FfdpupKByiU	Chinese Simplified	100
+Core Finance	Banking 4: Multiplier effect and the money supply	F7r7l1VG-Tw	Chinese Simplified	100
+Core Finance	Pegging the Yuan	S-9iY1OgbDE	Chinese Simplified	100
+Core Finance	Renting vs. Buying a home	YL10H_EcB-E	Chinese Simplified	100
+Core Finance	Time Value of Money	As1QpFGlGbg	Chinese Simplified	100
+Core Finance	Currency Effect on Trade	5HVCFrXQ9pw	Chinese Simplified	100
+Core Finance	Introduction to interest	GtaoP0skPWc	Chinese Simplified	100
+Core Finance	Deflation	FPh6EDv0Eew	Chinese Simplified	100
+Core Finance	LIBOR	wBCowBiXV7A	Chinese Simplified	100
+Core Finance	Term Life Insurance and Death Probability	NSSoMafbBqQ	Chinese Simplified	100
+Core Finance	Tax Deductions Introduction	GypHy3gnG5E	Chinese Simplified	100
+Core Finance	Interest (part 2)	t4zfiBw0hwM	Chinese Simplified	100
+Core Finance	Stagflation	bTz_tx460EY	Chinese Simplified	100
+Core Finance	Market Value of Assets	nhW3Ri4b_V8	Chinese Simplified	100
+Core Finance	American-Chinese Debt Loop	m5xu4r0szaA	Chinese Simplified	100
+Core Finance	Debt Loops Rationale and Effects	XBI7DqttyOQ	Chinese Simplified	100
+Core Finance	Interest Rate Swap 1	PLjyj1FJqig	Chinese Simplified	100
+Core Finance	Real and Nominal Return	cNm196bVE5A	Chinese Simplified	100
+Core Finance	Interpretting Futures Fair Value in the PreMarket	owcmu4XxrHM	Chinese Simplified	100
+Core Finance	Currency Exchange Introduction	itoNb1lb5hY	Chinese Simplified	100
+Core Finance	Market Capitalization	5lmHzAHbtzg	Chinese Simplified	100
+Core Finance	Deflationary Spiral	snX4Wf7PGts	Chinese Simplified	100
+Core Finance	The housing price conundrum	8IR5LefXVPY	Chinese Simplified	100
+Core Finance	Currency Effect on Trade Review	Ysk1ySejuCQ	Chinese Simplified	100
+Core Finance	Chinese Central Bank Buying Treasuries	MN4SWiEEqKo	Chinese Simplified	100
+Core Finance	Banking 3: Fractional Reserve Banking	nH2-37rTA8U	Chinese Simplified	100
+IIT JEE	Point distance to plane	7rIFO8hct9g	Chinese Simplified	100
+IIT JEE	Trigonometric System Example	Y2ed-g8Lpdc	Chinese Simplified	100
+IIT JEE	IIT JEE Trigonometric Maximum	tzR9jUCSniQ	Chinese Simplified	100
+IIT JEE	IIT JEE Trigonometric Constraints	EjtjdJZ2x8w	Chinese Simplified	100
+IIT JEE	IIT JEE Trigonometry Problem 1	X7GT9JKoAbo	Chinese Simplified	100
+IIT JEE	Normal vector from plane equation	gw-4wltP5tY	Chinese Simplified	100
+IIT JEE	Distance Between Planes	v8plb6V8BQo	Chinese Simplified	100
+IIT JEE	Vector Triple Product Expansion (very optional)	b7JTVLc_aMk	Chinese Simplified	100
+Order of operations	Introduction to Order of Operations	ClYdw4d4OmA	Chinese Simplified	100
+Vi Hart	Doodling in Math: Spirals, Fibonacci, and Being a Plant [1 of 3]	ahXIMUkSXX0	Chinese Simplified	100
+Triangles	Review of Triangle Properties	KUhdMbx5ges	Chinese Simplified	100
+Triangles	30-60-90 Triangle Side Ratios Proof	SFL4stapeUs	Chinese Simplified	100
+Triangles	Euler Line	tUqyJgmGY7k	Chinese Simplified	100
+Triangles	SSS to Show a Radius is Perpendicular to a Chord that it Bisects	TgDk06Qayxw	Chinese Simplified	100
+Triangles	Area of Koch Snowflake (part 1) - Advanced	64bH_27Ehoc	Chinese Simplified	100
+Triangles	Circumcenter of a Triangle	KXZ6w91DioU	Chinese Simplified	100
+Triangles	Incenter and incircles of a triangle	21vbBiCVijE	Chinese Simplified	100
+Triangles	45-45-90 Triangle Side Ratios	McINBOFCGH8	Chinese Simplified	100
+Triangles	Area of Inscribed Equilateral Triangle (some basic trig used)	UmiZK6Hgm6c	Chinese Simplified	100
+Triangles	Application of Similar Triangles	UgiRvl6iJzc	Chinese Simplified	100
+Triangles	Equilateral and Isosceles Example Problems	7FTNWE7RTfQ	Chinese Simplified	100
+Triangles	Pythagorean Theorem II	nMhJLn5ives	Chinese Simplified	100
+Triangles	Triangle Medians and Centroids	GiGLhXFBtRg	Chinese Simplified	100
+Triangles	Proof - Triangle Altitudes are Concurrent (Orthocenter)	aGwT2-RERXY	Chinese Simplified	100
+Triangles	Right Triangles Inscribed in Circles (Proof)	b0U1NxbRU4w	Chinese Simplified	100
+Triangles	Similarity Postulates	7bO0TmJ6Ba4	Chinese Simplified	100
+Triangles	Triangle Angle Example 2	eTwnt4G5xE4	Chinese Simplified	100
+Triangles	Congruent Triangle Proof Example	RFesGHsuFZw	Chinese Simplified	100
+Triangles	Area of Diagonal Generated Triangles of Rectangle are Equal	YTRimTJ5nX4	Chinese Simplified	100
+Triangles	Similar Triangle Example Problems	Ly86lwq_2gc	Chinese Simplified	100
+Triangles	Part 1 of Proof of Heron's Formula	AreOMvPCxv8	Chinese Simplified	100
+Triangles	Exploring Medial Triangles	Rsi5mzEaCPw	Chinese Simplified	100
+Triangles	Common Orthocenter and Centroid	pDZIvyeqX1o	Chinese Simplified	100
+Triangles	More on why SSA is not a postulate	f8svAm237xM	Chinese Simplified	100
+Triangles	Heron's Formula	-YI6UC4qVEY	Chinese Simplified	100
+Triangles	Triangle Angle Example 1	hmj3_zbz2eg	Chinese Simplified	100
+Triangles	Congruent and Similar Triangles	0mKmYxuMirE	Chinese Simplified	100
+Triangles	Proof - Sum of Measures of Angles in a Triangle are 180	OPG-9IFnJnI	Chinese Simplified	100
+Triangles	30-60-90 Triangles II	3mLUJSoh6i0	Chinese Simplified	100
+Triangles	Intro to 30-60-90 Triangles	Qwet4cIpnCM	Chinese Simplified	100
+Triangles	Figuring out all the angles for congruent triangles example	aDCXPdzyS0s	Chinese Simplified	100
+Triangles	Area of an Equilateral Triangle	UKQ65tiIQ6o	Chinese Simplified	100
+Triangles	Introduction to the Pythagorean Theorem	s9t7rNhaBp8	Chinese Simplified	100
+Triangles	Pythagorean Theorem Proof Using Similarity	LrS5_l-gk94	Chinese Simplified	100
+Triangles	Similar Triangle Basics	9ThXDY9Y3oU	Chinese Simplified	100
+Triangles	45-45-90 Triangles	tSHitjFIjd8	Chinese Simplified	100
+Triangles	Euler's Line Proof	t_EgAi574sM	Chinese Simplified	100
+Triangles	Koch Snowflake Fractal	azBNsPa1WC4	Chinese Simplified	100
+Triangles	Area of Koch Snowflake (part 2) - Advanced	vBlR2xNAGmo	Chinese Simplified	100
+Triangles	Similar triangles (part 2)	qO2cTx6DwCA	Chinese Simplified	100
+Triangles	Part 2 of the Proof of Heron's Formula	nZu7IZLhJRI	Chinese Simplified	100
+Triangles	Similarity example where same side plays different roles	Tal_fgREll0	Chinese Simplified	100
+Triangles	Challenging Triangle Angle Problem	95logvV8nXY	Chinese Simplified	100
+Triangles	Congruent Triangles and SSS	CJrVOf_3dN0	Chinese Simplified	100
+Triangles	Finding Congruent Triangles	d5UCZ9hO8X4	Chinese Simplified	100
+Triangles	Equilateral Triangle Sides and Angles Congruent	CYNUwiUzlPk	Chinese Simplified	100
+Triangles	Another Isosceles Example Problem	ceDV0QBpcMA	Chinese Simplified	100
+Triangles	Example involving an isosceles triangle and parallel lines	CVKAro3HUxQ	Chinese Simplified	100
+Triangles	Similar triangles	BI-rtfZVXy0	Chinese Simplified	100
+Triangles	Proving that the Centroid is 2-3rds along the Median	i0VS3eEGjiQ	Chinese Simplified	100
+Triangles	Median Centroid Right Triangle Example	k45QTFCHSVs	Chinese Simplified	100
+Triangles	Congruent Triangle Example 2	Xc3oHzKXVh8	Chinese Simplified	100
+Triangles	Similarity Example Problems	R-6CAr_zEEk	Chinese Simplified	100
+Triangles	Challenging Similarity Problem	7aGEvpHaNJ8	Chinese Simplified	100
+Triangles	Finding Area Using Similarity and Congruence	EqNzr56h1Ic	Chinese Simplified	100
+Triangles	30-60-90 Triangle Example Problem	dgHksfBFbjk	Chinese Simplified	100
+Triangles	Circumcenter of a Right Triangle	VejCw2NlE60	Chinese Simplified	100
+Triangles	Medians divide into smaller triangles of equal area	Xt4sT0fV9Pw	Chinese Simplified	100
+Triangles	Triangle Angle Example 3	iqeGTtyzQ1I	Chinese Simplified	100
+Multiplication and division	Division 2	8Ft5iHhauJ0	Chinese Simplified	100
+Multiplication and division	Multiplication 2: The Multiplication Tables	xO_1bYgoQvA	Chinese Simplified	100
+Multiplication and division	Basic Multiplication	mvOkMYCygps	Chinese Simplified	100
+Multiplication and division	Place Value 3	iK0y39rjBgQ	Chinese Simplified	100
+Multiplication and division	Division 1	MTzTqvzWzm8	Chinese Simplified	100
+Multiplication and division	Multiplication 5:  2-digit times a 2-digit number	t8m0NalQtEk	Chinese Simplified	100
+Multiplication and division	Lattice Multiplication	gS6TfWUv97I	Chinese Simplified	100
+Multiplication and division	Division 3: More long division and remainder examples	NcADzGz3bSI	Chinese Simplified	100
+Multiplication and division	Multiplication 3: 10,11,12 times tables	qihoczo1Ujk	Chinese Simplified	100
+Multiplication and division	Place Value 2	wd4cRAoBOiE	Chinese Simplified	100
+Multiplication and division	Place Value 1	jxA8MffVmPs	Chinese Simplified	100
+Credit Crisis	The housing price conundrum	8IR5LefXVPY	Chinese Simplified	100
+Competition Math	2003 AIME II Problem 11.avi	smtrrefmC40	Chinese Simplified	100
+Competition Math	2003 AIME II Problem 14	Ec-BKdC8vOo	Chinese Simplified	100
+Competition Math	2003 AIME II Problem 5 Minor Correction	yXg5CYuCcU4	Chinese Simplified	100
+Competition Math	Sum of factors of 27000	17st-s5gg10	Chinese Simplified	100
+Competition Math	2003 AIME II Problem 3	JU67TL2L1CA	Chinese Simplified	100
+Matrices	Introduction to matrices	xyAuNHPsq-g	Chinese Simplified	100
+Matrices	Null Space 2: Calculating the null space of a matrix	qvyboGryeA8	Chinese Simplified	100
+Matrices	Showing relation between basis cols and pivot cols	BfVjTOjvI30	Chinese Simplified	100
+Matrices	Inverting Matrices (part 3)	obts_JDS6_Q	Chinese Simplified	100
+Matrices	Column Space of a Matrix	st6D5OdFV9M	Chinese Simplified	100
+Matrices	Inverse Matrix (part 1)	iUQR0enP7RQ	Chinese Simplified	100
+Matrices	Inverting matrices (part 2)	S4n-tQZnU6o	Chinese Simplified	100
+Matrices	Matrices: Reduced Row Echelon Form 1	L0CmbneYETs	Chinese Simplified	100
+Matrices	Showing that the candidate basis does span C(A)	CkQOCnLWPUA	Chinese Simplified	100
+Matrices	Dimension of the Null Space or Nullity	abYAUqs_n6I	Chinese Simplified	100
+Matrices	Matrix Vector Products as Linear Transformations	ondmopWLiEg	Chinese Simplified	100
+Matrices	Introduction to the Null Space of a Matrix	jCwRV1QL_Xs	Chinese Simplified	100
+Matrices	Matrix multiplication (part 1)	aKhhYguY0DQ	Chinese Simplified	100
+Matrices	Matrix multiplication (part 2)	OAh573i_qn8	Chinese Simplified	100
+Matrices	Dimension of the Column Space or Rank	JUgrBkPteTg	Chinese Simplified	100
+Matrices	Linear Algebra: Matrix Product Examples	x1z0hOyjapU	Chinese Simplified	100
+Matrices	Linear Algebra: Matrix condition for one-to-one trans	M3FuL9qKTBs	Chinese Simplified	100
+Matrices	Null Space and Column Space Basis	_uTAdf_AsfQ	Chinese Simplified	100
+Matrices	More on Matrix Addition and Scalar Multiplication	Z19-ObbmHJE	Chinese Simplified	100
+Matrices	Sums and Scalar Multiples of Linear Transformations	wHuY97vss18	Chinese Simplified	100
+Matrices	Expressing a Projection on to a line as a Matrix Vector prod	JK-8XNIoAkI	Chinese Simplified	100
+Matrices	Linear Algebra: Simplifying conditions for invertibility	Yz2OosyMTmY	Chinese Simplified	100
+Matrices	Matrices: Reduced Row Echelon Form 3	JVDrlTdzxiI	Chinese Simplified	100
+Matrices	Matrices to solve a vector combination problem	gsNgdVdAT1o	Chinese Simplified	100
+Matrices	Singular Matrices	UqyN7-tRS00	Chinese Simplified	100
+Matrices	Null Space 3: Relation to Linear Independence	vFctYRhK2M0	Chinese Simplified	100
+Matrices	Visualizing a Column Space as a Plane in R3	EGNlXtjYABw	Chinese Simplified	100
+Matrices	Matrices: Reduced Row Echelon Form 2	lP1DGtZ8Wys	Chinese Simplified	100
+Matrices	Proof: Any subspace basis has same number of elements	Zn2K8UIT8r4	Chinese Simplified	100
+Matrices	Matrix Product Associativity	Hhc96U_HvQE	Chinese Simplified	100
+Linear Algebra	Introduction to matrices	xyAuNHPsq-g	Chinese Simplified	100
+Linear Algebra	Matrix multiplication (part 2)	OAh573i_qn8	Chinese Simplified	100
+Linear Algebra	Point distance to plane	7rIFO8hct9g	Chinese Simplified	100
+Linear Algebra	Inverting matrices (part 2)	S4n-tQZnU6o	Chinese Simplified	100
+Linear Algebra	Showing relation between basis cols and pivot cols	BfVjTOjvI30	Chinese Simplified	100
+Linear Algebra	Column Space of a Matrix	st6D5OdFV9M	Chinese Simplified	100
+Linear Algebra	Showing that the candidate basis does span C(A)	CkQOCnLWPUA	Chinese Simplified	100
+Linear Algebra	Dimension of the Null Space or Nullity	abYAUqs_n6I	Chinese Simplified	100
+Linear Algebra	Inverse Matrix (part 1)	iUQR0enP7RQ	Chinese Simplified	100
+Linear Algebra	Inverting Matrices (part 3)	obts_JDS6_Q	Chinese Simplified	100
+Linear Algebra	Null Space and Column Space Basis	_uTAdf_AsfQ	Chinese Simplified	100
+Linear Algebra	More on Matrix Addition and Scalar Multiplication	Z19-ObbmHJE	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Vector Examples	r4bH66vYjss	Chinese Simplified	100
+Linear Algebra	Dot and Cross Product Comparison/Intuition	tdwFdzVqito	Chinese Simplified	100
+Linear Algebra	Compositions of Linear Transformations 2	BuqcKpe5ZQs	Chinese Simplified	100
+Linear Algebra	Linear Algebra: (correction) scalar muliplication of row	WY6QG0mZ7uQ	Chinese Simplified	100
+Linear Algebra	Linear Algebra:  Determinant of Transpose	x-GV2v0dRNE	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Orthogonal Complements	QOTjdgmNqlg	Chinese Simplified	100
+Linear Algebra	Lin Alg: Orthogonal Complement of the Nullspace	LE_aQAur7nI	Chinese Simplified	100
+Linear Algebra	Linear Alg: Rowspace Solution to Ax=b example	qdf2CuMGdKs	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Change of Basis Matrix	1j5WnqwMdCk	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Introduction to the inverse of a function	-eAzhBZgq28	Chinese Simplified	100
+Linear Algebra	Matrices: Reduced Row Echelon Form 1	L0CmbneYETs	Chinese Simplified	100
+Linear Algebra	Null Space 2: Calculating the null space of a matrix	qvyboGryeA8	Chinese Simplified	100
+Linear Algebra	Matrix multiplication (part 1)	aKhhYguY0DQ	Chinese Simplified	100
+Linear Algebra	Determining whether a transformation is onto	eR8vEdJTvd0	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Exploring the solution set of Ax=b	1PsNIzUJPkc	Chinese Simplified	100
+Linear Algebra	Lin Alg: A Projection onto a Subspace is a Linear Transforma	cTyNpXB92bQ	Chinese Simplified	100
+Linear Algebra	More on linear independence	Alhcv5d_XOs	Chinese Simplified	100
+Linear Algebra	Proving Vector Dot Product Properties	rVQ3G9epCjw	Chinese Simplified	100
+Linear Algebra	Proof of the Cauchy-Schwarz Inequality	r2PogGDl8_U	Chinese Simplified	100
+Linear Algebra	Proof: Relationship between cross product and sin of angle	7MKA2QlKvHc	Chinese Simplified	100
+Linear Algebra	Dimension of the Column Space or Rank	JUgrBkPteTg	Chinese Simplified	100
+Linear Algebra	Rotation in R3 around the X-axis	gkyuLPzfDV0	Chinese Simplified	100
+Linear Algebra	Linear Transformations	4PCktDZJH8E	Chinese Simplified	100
+Linear Algebra	Linear Transformation Examples: Scaling and Reflections	qkfODKmZ-x4	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Cross Product Introduction	pJzmiywagfY	Chinese Simplified	100
+Linear Algebra	Matrices: Reduced Row Echelon Form 3	JVDrlTdzxiI	Chinese Simplified	100
+Linear Algebra	Introduction to the Null Space of a Matrix	jCwRV1QL_Xs	Chinese Simplified	100
+Linear Algebra	Image of a subset under a transformation	MIAmN5kgp3k	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Introduction to Linear Independence	CrV1xCWdY-g	Chinese Simplified	100
+Linear Algebra	Linear Transformations as Matrix Vector Products	PErhLkQcpZ8	Chinese Simplified	100
+Linear Algebra	im(T):  Image of a Transformation	hZ827mfh1Jo	Chinese Simplified	100
+Linear Algebra	Singular Matrices	UqyN7-tRS00	Chinese Simplified	100
+Linear Algebra	Linear Subspaces	pMFv6liWK4M	Chinese Simplified	100
+Linear Algebra	Proof: Any subspace basis has same number of elements	Zn2K8UIT8r4	Chinese Simplified	100
+Linear Algebra	A more formal understanding of functions	BQMyeQOLvpg	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Example of Finding Matrix Inverse	r9aTLTN16V4	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Matrix condition for one-to-one trans	M3FuL9qKTBs	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Least Squares Approximation	MC7l96tW8V8	Chinese Simplified	100
+Linear Algebra	Vector Triple Product Expansion (very optional)	b7JTVLc_aMk	Chinese Simplified	100
+Linear Algebra	3-variable linear equations (part 1)	5tB7y_piK6o	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Vector Triangle Inequality	PsNidCBr5II	Chinese Simplified	100
+Linear Algebra	Defining a plane in R3 with a point and normal vector	UJxgcVaNTqY	Chinese Simplified	100
+Linear Algebra	Visualizing a Column Space as a Plane in R3	EGNlXtjYABw	Chinese Simplified	100
+Linear Algebra	Linear Combinations and Span	Qm_OS-8COwU	Chinese Simplified	100
+Linear Algebra	Span and Linear Independence Example	9kW6zFK5E5c	Chinese Simplified	100
+Linear Algebra	Defining the angle between vectors	5AWob_z74Ks	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Showing that Inverses are Linear	mr9Tow8hpCg	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Duplicate Row Determinant	gYv8sttBIqs	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Determinant after row operations	kpG7xySkivg	Chinese Simplified	100
+Linear Algebra	Linear Algebra:  Determinant and area of a parallelogram	n-S63_goDFg	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Subspace Projection Matrix Example	QTcSBB3uVP0	Chinese Simplified	100
+Linear Algebra	Lin Alg: Transformation Matrix with Respect to a Basis	PiuhTj0zCf4	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Coordinates with respect to orthonormal bases	SWbis2zWIvo	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Eigenvalues of a 3x3 matrix	11dNghWC4HI	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Determinant as Scaling Factor	g3MqSdO5Ubc	Chinese Simplified	100
+Linear Algebra	Lin Alg: Showing that A-transpose x A is invertible	ESSMQH6Y5OA	Chinese Simplified	100
+Linear Algebra	Lin Alg: Alternate Basis Tranformation Matrix Example	lCRGNykWqFI	Chinese Simplified	100
+Linear Algebra	Lin Alg: Finding projection onto subspace with orthonormal basis example	SUoqA9srY1Q	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Upper Triangular Determinant	VX7K8iqoiRc	Chinese Simplified	100
+Linear Algebra	Expressing a Projection on to a line as a Matrix Vector prod	JK-8XNIoAkI	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Deriving a method for determining inverses	6DpzCKJBsz0	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Determinant when row multiplied by scalar	32rdijPB-rA	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Rank(A) = Rank(transpose of A)	tqqVOWm9YsU	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Another Least Squares Example	QkepM8Vv3kw	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Coordinates with Respect to a Basis	uvgru6FcyxU	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Gram-Schmidt Process Example	tu1GPtfsQ7M	Chinese Simplified	100
+Linear Algebra	Compositions of Linear Transformations 1	f_DTiXZpb8M	Chinese Simplified	100
+Linear Algebra	Lin Alg: Alternate Basis Tranformation Matrix Example Part 2	EyORbCPUAd4	Chinese Simplified	100
+Linear Algebra	Linear Algebra:  Eigenvectors and Eigenspaces for a 3x3 matrix	3Md5KCCQX-0	Chinese Simplified	100
+Linear Algebra	Matrix Product Associativity	Hhc96U_HvQE	Chinese Simplified	100
+Linear Algebra	Lin Alg: Changing coordinate systems to help find a transformation matrix	K_na_j1Msfg	Chinese Simplified	100
+Linear Algebra	Linear Algebra:  Showing that an eigenbasis makes for good coordinate systems	C2PC9185gIw	Chinese Simplified	100
+Linear Algebra	Proof: Invertibility implies a unique solution to f(x)=y	7GEUgRcnfVE	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Determinant when row is added	VrB3LaSD_uo	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Transpose of a Matrix	2t0003_sxtU	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Rowspace and Left Nullspace	qBfc57x_RSg	Chinese Simplified	100
+Linear Algebra	Linear Alg: Visualizing a projection onto a plane	uWbZlJURkfA	Chinese Simplified	100
+Linear Algebra	Linear Alg: Projection is closest vector in subspace	b269qpILOpk	Chinese Simplified	100
+Linear Algebra	Normal vector from plane equation	gw-4wltP5tY	Chinese Simplified	100
+Linear Algebra	Linear Algebra: nxn Determinant	H9BWRYJNIv4	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Transpose of a Matrix Product	UdHgWK13x5I	Chinese Simplified	100
+Linear Algebra	Linear Algebra:  Transposes of sums and inverses	Br_8t58mdeI	Chinese Simplified	100
+Linear Algebra	Lin Alg:  Orthogonal Complement of the Orthogonal Complement	zlI8mx8Hc8o	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Projections onto Subspaces	5B8XluiqdHM	Chinese Simplified	100
+Linear Algebra	Lin Alg: Projections onto subspaces with orthonormal bases	we829K4NOq8	Chinese Simplified	100
+Linear Algebra	Lin Alg: Example using orthogonal change-of-basis matrix to find transformation matrix	gfVY7cW7VLQ	Chinese Simplified	100
+Linear Algebra	Linear Algebra:  Gram-Schmidt example with 3 basis vectors	ZRRG386v6DI	Chinese Simplified	100
+Linear Algebra	Distance Between Planes	v8plb6V8BQo	Chinese Simplified	100
+Linear Algebra	Solving 3 Equations with 3 Unknowns	woqq3Sls1d8	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Parametric Representations of Lines	hWhs2cIj7Cw	Chinese Simplified	100
+Linear Algebra	Matrices: Reduced Row Echelon Form 2	lP1DGtZ8Wys	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Matrix Product Examples	x1z0hOyjapU	Chinese Simplified	100
+Linear Algebra	Vector Dot Product and Vector Length	WNuIhXo39_k	Chinese Simplified	100
+Linear Algebra	Linear Transformation Examples: Rotations in R2	lPWfIq5DzqI	Chinese Simplified	100
+Linear Algebra	Matrices to solve a vector combination problem	gsNgdVdAT1o	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Basis of a Subspace	zntNi3-ybfQ	Chinese Simplified	100
+Linear Algebra	Vector Transformations	gAbadNuQEjI	Chinese Simplified	100
+Linear Algebra	Preimage and Kernel Example	6yrPU8rYOhs	Chinese Simplified	100
+Linear Algebra	Sums and Scalar Multiples of Linear Transformations	wHuY97vss18	Chinese Simplified	100
+Linear Algebra	Introduction to Projections	27vT-NWuw0M	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Determinants along other rows/cols	nu87kfmwNfU	Chinese Simplified	100
+Linear Algebra	Lin Alg:  Orthogonal matrices preserve angles and lengths	yDwIfYjKEeo	Chinese Simplified	100
+Linear Algebra	Preimage of a set	zVsGtU8lIWs	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Simplifying conditions for invertibility	Yz2OosyMTmY	Chinese Simplified	100
+Linear Algebra	Lin Alg: Unique rowspace solution to Ax=b	czIYvs9zj2g	Chinese Simplified	100
+Linear Algebra	Lin Alg: Another Example of a Projection Matrix	XhCSHu6dHb8	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Introduction to Eigenvalues and Eigenvectors	PhfbEr2btGQ	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Proof of formula for determining Eigenvalues	rfm0wQObxjk	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Example solving for the eigenvalues of a 2x2 matrix	pZ6mMVEE89g	Chinese Simplified	100
+Linear Algebra	Matrix Vector Products as Linear Transformations	ondmopWLiEg	Chinese Simplified	100
+Linear Algebra	Unit Vectors	lQn7fksaDq0	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Simpler 4x4 determinant	QV0jsTiobU4	Chinese Simplified	100
+Linear Algebra	Linear Algebra: dim(V) + dim(orthogonoal complelent of V)=n	pGhBfkBqok0	Chinese Simplified	100
+Linear Algebra	Lin Alg: Invertible Change of Basis Matrix	meibWcbGqt4	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Introduction to Orthonormal Bases	7BFx8pt2aTQ	Chinese Simplified	100
+Linear Algebra	Linear Algebra: The Gram-Schmidt Process	rHonltF77zI	Chinese Simplified	100
+Linear Algebra	Linear Algebra:  Finding Eigenvectors and Eigenspaces example	3-xfmbdzkqc	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Introduction to Vectors	5cWB52I-SF0	Chinese Simplified	100
+Linear Algebra	Null Space 3: Relation to Linear Independence	vFctYRhK2M0	Chinese Simplified	100
+Linear Algebra	Relating invertibility to being onto and one-to-one	QIU1daMN8fw	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Rule of Sarrus of Determinants	4xFIi0JF2AM	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Transpose of a Vector	lSoaMCNKfAg	Chinese Simplified	100
+Linear Algebra	Surjective (onto) and Injective (one-to-one) functions	xKNX8BUWR0g	Chinese Simplified	100
+Linear Algebra	Linear Algebra: Least Squares Examples	8mAZYv5wIcE	Chinese Simplified	100
+Current Economics	CPI Index	pRIELoITIHI	Chinese Simplified	100
+Current Economics	Review of China US currency situation	DtlFQ_nNaQM	Chinese Simplified	100
+Current Economics	Data on Chinese US Balance of Payments	iNemmT1hnzA	Chinese Simplified	100
+Current Economics	Inflation & Deflation 3: Obama Stimulus Plan	sZRkERfzzn4	Chinese Simplified	100
+Current Economics	Simple Analysis of Cost per Job Saved from Stimulus	sSqxVMbml_k	Chinese Simplified	100
+Current Economics	Inflation, Deflation & Capacity Utilization 2	cugQ4z4cJF8	Chinese Simplified	100
+Current Economics	Floating Exchange Effect on China	vrGNXAGmfCM	Chinese Simplified	100
+Current Economics	Floating Exchange Effect on US	K0GF4FT51qY	Chinese Simplified	100
+Current Economics	Cupcake Economics 2	-LTXzYXaAuk	Chinese Simplified	100
+Current Economics	Unemployment Rate Primer	9DGbDx5xQNo	Chinese Simplified	100
+Current Economics	Cupcake Economics 3	8x1-TeDxblU	Chinese Simplified	100
+Current Economics	Unemployment	vUOiOi-XaoQ	Chinese Simplified	100
+Current Economics	Chinese inflation	R_-V6usZJsc	Chinese Simplified	100
+Current Economics	China buys US Bonds	Dfkq9SOWxY8	Chinese Simplified	100
+Current Economics	Data on Chinese M1 Increase in 2010	4Azskeheo_g	Chinese Simplified	100
+Current Economics	Data on Chinese Foreign Assets Increase in 2010	a3NFAnHxpKw	Chinese Simplified	100
+Current Economics	Economics of a Cupcake Factory	XDIBJyNnLOU	Chinese Simplified	100
+Current Economics	Inflation, Deflation & Capacity Utilization	LXrPdFn7Gn4	Chinese Simplified	100
+Current Economics	China Pegs to Dollar to Keep Trade Imbalance	uTlh861MtYk	Chinese Simplified	100
+Current Economics	Floating Exchange Resolving Trade Imbalance	wNYFJsC8TZE	Chinese Simplified	100
+Introduction to Algebra	The Beauty of Algebra	kpCJyQ2usJ4	Chinese Simplified	100
+Introduction to Algebra	Descartes and Cartesian Coordinates	N4nrdf0yYfM	Chinese Simplified	100
+Introduction to Algebra	Abstract-ness	ZOYRb2sYrL0	Chinese Simplified	100
+Number properties	Commutative Law of Addition	HwSszh3L358	Chinese Simplified	100
+Currency	Debt Loops Rationale and Effects	XBI7DqttyOQ	Chinese Simplified	100
+Currency	China keeps peg but diversifies holdings	4aNoZjAhSr8	Chinese Simplified	100
+Currency	Pegging the Yuan	S-9iY1OgbDE	Chinese Simplified	100
+Currency	Currency Effect on Trade Review	Ysk1ySejuCQ	Chinese Simplified	100
+Currency	Chinese Central Bank Buying Treasuries	MN4SWiEEqKo	Chinese Simplified	100
+Currency	Currency Effect on Trade	5HVCFrXQ9pw	Chinese Simplified	100
+Currency	American-Chinese Debt Loop	m5xu4r0szaA	Chinese Simplified	100
+Currency	Currency Exchange Introduction	itoNb1lb5hY	Chinese Simplified	100
+ - 400 C.E. Ancient Cultures	Sculpture from the Parthenon's East Pediment	Ip6hmC2KIug	Chinese Simplified	100
+ - 400 C.E. Ancient Cultures	Victory Stele of Naram-Sin	OY79AuGZDNI	Chinese Simplified	100
+ - 400 C.E. Ancient Cultures	Head of Augustus	bhE7cHE4wF0	Chinese Simplified	100
+ - 400 C.E. Ancient Cultures	Rosetta Stone	OFXY9-pec1I	Chinese Simplified	100
+ - 400 C.E. Ancient Cultures	The Standard of Ur	Nok4cBt0V6w	Chinese Simplified	100
+ - 400 C.E. Ancient Cultures	Colosseum	9wguQaBYKec	Chinese Simplified	100
+ - 400 C.E. Ancient Cultures	Law Code Stele of King Hammurabi 	_w5NGOHbgTw	Chinese Simplified	100
+ - 400 C.E. Ancient Cultures	Arch of Titus	Huop6oiCgVg	Chinese Simplified	100
+Chemistry	The Mole and Avogadro's Number	AsqEkF7hcII	Chinese Simplified	100
+Chemistry	Introduction to the atom	1xSQlwWGT8M	Chinese Simplified	100
+Chemistry	Elements and Atoms	IFKnq9QM6_A	Chinese Simplified	100
+Chemistry	Valence Electrons	1TZA171yxY4	Chinese Simplified	100
+Chemistry	Ideal Gas Example 4	Osl6HEDZZ-E	Chinese Simplified	100
+Chemistry	Types of Decay	3koOwozY4oc	Chinese Simplified	100
+Chemistry	Electron Configurations 2	YURReI6OJsg	Chinese Simplified	100
+Chemistry	Other Periodic Table Trends	XMLd-O6PgVs	Chinese Simplified	100
+Chemistry	Ionic, Covalent, and Metallic Bonds	CGA8sRwqIFg	Chinese Simplified	100
+Chemistry	Molecular and Empirical Formulas	gfBcM3uvWfs	Chinese Simplified	100
+Chemistry	Hydrogen Peroxide Correction	YPjtG5PA-iY	Chinese Simplified	100
+Chemistry	Redox Reactions	yp60-oVxrT4	Chinese Simplified	100
+Chemistry	Balancing Chemical Equations	RnGu3xO2h74	Chinese Simplified	100
+Chemistry	Groups of the Periodic Table	LDHg7Vgzses	Chinese Simplified	100
+Chemistry	Another mass composition problem	sXOIIEZh6qg	Chinese Simplified	100
+Chemistry	Specific Heat, Heat of Fusion and Vaporization	zz4KbvF_X-0	Chinese Simplified	100
+Chemistry	Work Done by Isothermic Process	iiFWoXQPOJc	Chinese Simplified	100
+Chemistry	Formula from Mass Composition	xatVrAh2U0E	Chinese Simplified	100
+Chemistry	Heat of Formation	PK_JXzYcme0	Chinese Simplified	100
+Chemistry	Introduction to Oxidation States	_fNNQfGGYr4	Chinese Simplified	100
+Chemistry	Covalent Networks, Metallic, and Ionic Crystals	Rw_pDVbnfQk	Chinese Simplified	100
+Chemistry	Boiling Point Elevation and Freezing Point Supression	z9LxdqYntlU	Chinese Simplified	100
+Chemistry	First Law of Thermodynamics/ Internal Energy	Xb05CaG7TsQ	Chinese Simplified	100
+Chemistry	Proof: S (or Entropy) is a valid state variable	sPz5RrFus1Q	Chinese Simplified	100
+Chemistry	Entropy Intuition	xJf6pHqLzs0	Chinese Simplified	100
+Chemistry	Efficiency of a Carnot Engine	M_5KYncYNyc	Chinese Simplified	100
+Chemistry	pH of a Weak Acid	dencuBNp_Ck	Chinese Simplified	100
+Chemistry	Work from Expansion	obeGVTOZyfE	Chinese Simplified	100
+Chemistry	Thermodynamic Entropy Definition Clarification	PFcGiMLwjeY	Chinese Simplified	100
+Chemistry	pKa and pKb Relationship	3Gm4nAAc3zc	Chinese Simplified	100
+Chemistry	Half-Life	9REPnibO4IQ	Chinese Simplified	100
+Chemistry	Ideal Gas Equation: PV=nRT	WScwPIPqZa0	Chinese Simplified	100
+Chemistry	States of Matter Follow-Up	WenwtcuqOj8	Chinese Simplified	100
+Chemistry	Vapor Pressure	hA5jddDYcyg	Chinese Simplified	100
+Chemistry	Heterogenous Equilibrium	TsXlTWgyItw	Chinese Simplified	100
+Chemistry	Le Chatelier's Principle	4-fEvpVNTlE	Chinese Simplified	100
+Chemistry	Partial Pressure	d4bqNf37mBY	Chinese Simplified	100
+Chemistry	Chilling Water Problem	lsXcKgjg8Hs	Chinese Simplified	100
+Chemistry	pH of a Weak Base	gDJtOIxDu78	Chinese Simplified	100
+Chemistry	Carnot Cycle and Carnot Engine	aAfBSJObd6Y	Chinese Simplified	100
+Chemistry	Stoichiometry: Limiting Reagent	rESzyhPOJ7I	Chinese Simplified	100
+Chemistry	pH, pOH of Strong Acids and Bases	tS2YJPmKOFQ	Chinese Simplified	100
+Chemistry	Quasistatic and Reversible Processes	lKq-10ysDb4	Chinese Simplified	100
+Chemistry	More on Internal Energy	aOSlXuDO4UU	Chinese Simplified	100
+Chemistry	Mini-Video on Ion Size	HBi8xjMchZc	Chinese Simplified	100
+Chemistry	Reconciling Thermodynamic and State Definitions of Entropy	WLKEVfLFau4	Chinese Simplified	100
+Chemistry	More on Entropy	dFFzAP2OZ3E	Chinese Simplified	100
+Chemistry	Change of State Example	tvO0358YUYM	Chinese Simplified	100
+Chemistry	Suspensions, Colloids and Solutions	3ROWXs3jtQU	Chinese Simplified	100
+Chemistry	Galvanic Cells	N4L3dDIixSU	Chinese Simplified	100
+Chemistry	Exponential Decay Formula Proof (can skip, involves Calculus)	H7nrVDV8ahc	Chinese Simplified	100
+Chemistry	States of Matter	pKvo0XWZtjo	Chinese Simplified	100
+Chemistry	Ideal Gas Equation Example 1	erjMiErRgSQ	Chinese Simplified	100
+Chemistry	Phase Diagrams	Qp87Z4m8R-w	Chinese Simplified	100
+Chemistry	Acid Base Introduction	vShCnTY1-T0	Chinese Simplified	100
+Chemistry	Conjugate Acids and Bases	0LM6wPpypxM	Chinese Simplified	100
+Chemistry	Proof: U=(3/2)PV or U=(3/2)nRT	qSFY7GKhSRs	Chinese Simplified	100
+Chemistry	Introduction to Kinetics	__zy-oOLPug	Chinese Simplified	100
+Chemistry	Introduction to pH, pOH, and pKw	2q4vSKwaBtw	Chinese Simplified	100
+Chemistry	PV-diagrams and Expansion Work	M5uOIy-JTmo	Chinese Simplified	100
+Chemistry	Keq Intuition (mathy and not necessary to progress)	ONBJo7dXJm8	Chinese Simplified	100
+Chemistry	More Exponential Decay Examples	Hqzakjo_dYg	Chinese Simplified	100
+Chemistry	Gibbs Free Energy Example	sG1ZAdYi13A	Chinese Simplified	100
+Chemistry	Empirical and Molecular Formulas from Stoichiometry	FycJ8X67xEU	Chinese Simplified	100
+Chemistry	Van Der Waals Forces	8qfzpJvsp04	Chinese Simplified	100
+Chemistry	Maxwell's Demon	aKRDvSZ-igA	Chinese Simplified	100
+Chemistry	Buffers and Hendersen-Hasselbalch	LJmFbcaxDPE	Chinese Simplified	100
+Chemistry	Half Equivalence Point	1u0PU2BcxKg	Chinese Simplified	100
+Chemistry	More on Oxidation States	GA88JI4AymY	Chinese Simplified	100
+Chemistry	Weak Acid Titration	gbpc_JBG1F0	Chinese Simplified	100
+Chemistry	Strong Acid Titration	299o6c-Fkz4	Chinese Simplified	100
+Chemistry	Titration Roundup	BBIGR0RAMtY	Chinese Simplified	100
+Chemistry	A look at a seductive but wrong Gibbs/Spontaneity Proof	yYbzJs6vgv8	Chinese Simplified	100
+Chemistry	Limiting Reactant Example Problem 1	YNriRslOk9A	Chinese Simplified	100
+Chemistry	Hess's Law and Reaction Enthalpy Change	chXMpDwjBDk	Chinese Simplified	100
+Chemistry	Carnot Efficiency 2:  Reversing the Cycle	pQWwP7YYH6o	Chinese Simplified	100
+Chemistry	More rigorous Gibbs Free Energy/ Spontaneity Relationship	7aur5h44pV4	Chinese Simplified	100
+Chemistry	Stoichiometry Example Problem 2	eQf_EAYGo-k	Chinese Simplified	100
+Chemistry	Carnot Efficiency 3:  Proving that it is the most efficient	LUoUb4hGMH8	Chinese Simplified	100
+Chemistry	Stoichiometry Example Problem 1	jFv6k2OV7IU	Chinese Simplified	100
+Healthcare and Medicine	Vitamin C and the Limeys	Mp9II8MmuoA	Chinese Simplified	100
+Healthcare and Medicine	Inflammation	GZ6I3T1RAnQ	Chinese Simplified	100
+Healthcare and Medicine	Heart Disease and Heart Attacks	vYnreB1duro	Chinese Simplified	100
+Polynomials	Partial Fraction Expansion 3	A52fEdPn9lg	Chinese Simplified	100
+Polynomials	Partial Fraction Expansion 1	S-XKGBesRzk	Chinese Simplified	100
+Polynomials	Partial Fraction Expansion 2	6FrPLJY0rqM	Chinese Simplified	100
+Polynomials	Interesting Polynomial Coefficient Problem	hypi8QPsFEk	Chinese Simplified	100
+Conic sections	Conic Sections: Hyperbolas 2	hl58vTCqVIY	Chinese Simplified	100
+Conic sections	Introduction to Conic Sections	0A7RR0oy2ho	Chinese Simplified	100
+Conic sections	Conic Sections: Intro to Circles	6r1GQCxyMKI	Chinese Simplified	100
+Conic sections	Foci of an Ellipse	QR2vxfwiHAU	Chinese Simplified	100
+Conic sections	Identifying Conics 1	LSJuu4Qm2qQ	Chinese Simplified	100
+Conic sections	Parabola Focus and Directrix 1	ZJf9shWlMz0	Chinese Simplified	100
+Conic sections	Proof: Hyperbola Foci	HPRFmu7JsKU	Chinese Simplified	100
+Conic sections	Identifying Conics 2	cvA4VN1dpuY	Chinese Simplified	100
+Conic sections	Conic Sections: Intro to Hyperbolas	pzSyOTkAsY4	Chinese Simplified	100
+Conic sections	Conic Sections: Intro to Ellipses	lvAYFUIEpFI	Chinese Simplified	100
+Conic sections	Conic Sections: Hyperbolas 3	lGQw-W1PxBE	Chinese Simplified	100
+Complex numbers	Calculating i Raised to Arbitrary Exponents	QiwfF83NWNA	Chinese Simplified	100
+Complex numbers	Complex Numbers (part 1)	kpywdu1afas	Chinese Simplified	100
+Complex numbers	i as the Principal Root of -1 (a little technical)	rYG1D5lUE4I	Chinese Simplified	100
+Complex numbers	Introduction to i and Imaginary Numbers	ysVcAYo7UPI	Chinese Simplified	100
+Physics	Introduction to Waves	c38H6UKt3_I	Chinese Simplified	100
+Physics	Specular and Diffuse Reflection	sd0BOnN6aNY	Chinese Simplified	100
+Physics	Convex Lenses	K0sjZ5nqQ7g	Chinese Simplified	100
+Physics	Introduction to Magnetism	8Y4JSp5U82I	Chinese Simplified	100
+Physics	Projectile motion (part 1)	15zliAL4llE	Chinese Simplified	100
+Physics	Projectile motion (part 2)	emdHj6WodLw	Chinese Simplified	100
+Physics	Magnetism 6: Magnetic field due to current	Ri557hvwhcM	Chinese Simplified	100
+Physics	Introduction to Vectors and Scalars	ihNZlp7iUHE	Chinese Simplified	100
+Physics	Convex Lens Examples	xxF_mdoZom0	Chinese Simplified	100
+Physics	Virtual Image	nrOg85VPQgw	Chinese Simplified	100
+Physics	Concave Lenses	Vh70PyitQzo	Chinese Simplified	100
+Physics	Mechanical Advantage (part 2)	DiBXxWBrV24	Chinese Simplified	100
+Physics	Projectile Motion with Ordered Set Notation	jl_gQ-eL3xo	Chinese Simplified	100
+Physics	Loop De Loop Answer part 1	4SQDybFjhRE	Chinese Simplified	100
+Physics	Loop De Loop Answer part 2	zcnnZz2pCSg	Chinese Simplified	100
+Physics	Electric Potential Energy	elJUghWSVh4	Chinese Simplified	100
+Physics	Capacitance	ngOC4eUQl8Y	Chinese Simplified	100
+Physics	Circuits (part 1)	3o8_EARoMtg	Chinese Simplified	100
+Physics	Magnetism 7	l3hw0twZSCc	Chinese Simplified	100
+Physics	Refraction and Snell's Law	y55tzg_jW9I	Chinese Simplified	100
+Physics	Conservation of Energy	kw_4Loo1HR4	Chinese Simplified	100
+Physics	Mechanical Advantage (part 3)	vSsK7Rfa3yA	Chinese Simplified	100
+Physics	Fluids (part 7)	G4CgOF4ccXk	Chinese Simplified	100
+Physics	Fluids (part 9)	QX2YLR09Q78	Chinese Simplified	100
+Physics	Thermodynamics (part 5)	UekR9J31a2o	Chinese Simplified	100
+Physics	Clearing the Green Monster at Fenway	2Epyz-OFRn8	Chinese Simplified	100
+Physics	Introduction to Momentum	XFhntPxow0U	Chinese Simplified	100
+Physics	Unit Vector Notation	FaF3v-ezbSk	Chinese Simplified	100
+Physics	Cross Product 2	o_puKe_lTKk	Chinese Simplified	100
+Physics	Airbus A380 Take-off Time	p4DTormtEG0	Chinese Simplified	100
+Physics	2-dimensional momentum problem	CFygKiTB-4A	Chinese Simplified	100
+Physics	Relationship between angular velocity and speed	zAx61CO5mDw	Chinese Simplified	100
+Physics	Space Station Speed in Orbit	9BNkmfHYYYI	Chinese Simplified	100
+Physics	Introduction to Newton's Law of Gravitation	391txUI76gM	Chinese Simplified	100
+Physics	Acceleration of Aircraft Carrier Takeoff	VYgSXBjEA8I	Chinese Simplified	100
+Physics	Race Cars with Constant Speed Around Curve	ITA1rW5UraU	Chinese Simplified	100
+Physics	Moving pulley problem (part 1)	J5GJgtZN6GE	Chinese Simplified	100
+Physics	Projectile motion (part 5)	dlpmllTx5MY	Chinese Simplified	100
+Physics	Fluids (part 1)	Pn5YEMwQb4Y	Chinese Simplified	100
+Physics	Fluids (part 8)	uqyLOuAzbvo	Chinese Simplified	100
+Physics	Fluids (part 10)	NGpJPz44JYc	Chinese Simplified	100
+Physics	Fluids (part 11)	HnfBFeLunk4	Chinese Simplified	100
+Physics	Magnetism 5	jQ2nD8ZGeEw	Chinese Simplified	100
+Physics	Magnetism 11: Electric Motors	XMkUDyl1ZRo	Chinese Simplified	100
+Physics	Parabolic Mirrors 2	7m0u6dxA5Xo	Chinese Simplified	100
+Physics	Displacement from Time and Velocity Example	lQ-dvt3V4yQ	Chinese Simplified	100
+Physics	Magnetism 3	LTuGQy4rmmo	Chinese Simplified	100
+Physics	Magnetism 9: Electric Motors	pAgPfr7MkkU	Chinese Simplified	100
+Physics	Thermodynamics (part 3)	HvYUKRMT0VI	Chinese Simplified	100
+Physics	Cross product 1	zA0fvwtvgvA	Chinese Simplified	100
+Physics	Dot vs. Cross Product	E34CftP455k	Chinese Simplified	100
+Physics	When the source and the wave move at the same velocity	4Xgk3vusxT8	Chinese Simplified	100
+Physics	Would a Brick or Feather Fall Faster	36Rym2q4H94	Chinese Simplified	100
+Physics	Fluids (part 3)	5EWjlpc0S00	Chinese Simplified	100
+Physics	Convex Parabolic Mirrors	dWY25vb1ZB0	Chinese Simplified	100
+Physics	Harmonic Motion Part 2 (calculus)	xoUppFlif04	Chinese Simplified	100
+Physics	Harmonic Motion Part 3 (no calculus)	oqBHBO8cqLI	Chinese Simplified	100
+Physics	Thermodynamics (part 1)	tQcB9BLUoVI	Chinese Simplified	100
+Physics	Electric Potential Energy (part 2-- involves calculus)	CqsYCIjSm9A	Chinese Simplified	100
+Physics	Voltage	zqGvUbvVQXg	Chinese Simplified	100
+Physics	Viewing g as the value of Earth's Gravitational Field Near the Surface	1E3Z_R5AHdg	Chinese Simplified	100
+Physics	Introduction to the Doppler Effect	dc7l7Qqa8xk	Chinese Simplified	100
+Physics	Thermodynamics (part 4)	5B1i26dUwME	Chinese Simplified	100
+Physics	Projectile Height Given Time	IYS4Bd9F3LA	Chinese Simplified	100
+Physics	Calculating dot and cross products with unit vector notation	enr7JqvehJs	Chinese Simplified	100
+Physics	Introduction to mechanical advantage	pfzJ-z5Ij48	Chinese Simplified	100
+Physics	Introduction to Torque	QhuJn8YBtmg	Chinese Simplified	100
+Physics	Moments	ESusD8HRLBI	Chinese Simplified	100
+Physics	Introduction to Gravity	Xcel427Ezl0	Chinese Simplified	100
+Physics	Deriving Max Projectile Displacement Given Time	P7LKEkcNibo	Chinese Simplified	100
+Physics	Projectile Motion with Unit Vectors (part 2)	9VBa4o8rz0Y	Chinese Simplified	100
+Physics	Fluids (part 12)	xlJYYM5TWoA	Chinese Simplified	100
+Physics	Circuits (part 2)	7vHh1sfZ5KE	Chinese Simplified	100
+Physics	Circuits (part 4)	3NcIK0s3IwU	Chinese Simplified	100
+Physics	Magnetism 4	b1QFKLZC11U	Chinese Simplified	100
+Physics	Normal Force and Contact Force	1WOrgrIcQZU	Chinese Simplified	100
+Physics	Tension in an accelerating system and pie in the face	52wxpYnS64U	Chinese Simplified	100
+Physics	Specular and Diffuse Reflection 2	XR52dXLyz-M	Chinese Simplified	100
+Physics	Refraction in Water	jxptCXHLxKQ	Chinese Simplified	100
+Physics	Acceleration	FOkQszg1-j8	Chinese Simplified	100
+Physics	Gravity for Astronauts in Orbit	oIZV-ixRTcY	Chinese Simplified	100
+Physics	Impact Velocity From Given Height	2ZgBJxT9pbU	Chinese Simplified	100
+Physics	Optimal angle for a projectile part 1	RhUdv0jjfcE	Chinese Simplified	100
+Physics	Tension (part 2)	zwDJ1wVr7Is	Chinese Simplified	100
+Physics	Plotting Projectile Displacement, Acceleration, and Velocity	T0zpF_j7Mvo	Chinese Simplified	100
+Physics	Optimal angle for a projectile part 4   Finding the optimal angle and distance with a bit of calculus	snw0BrCBQYQ	Chinese Simplified	100
+Physics	Why Distance is Area under Velocity-Time Line	d-_eqgj5-K8	Chinese Simplified	100
+Physics	Mass and Weight Clarification	IuBoeDihLUc	Chinese Simplified	100
+Physics	Green Monster at Fenway Part 2	3nwdtdPAjnY	Chinese Simplified	100
+Physics	Center of Mass	VrflZifKIuw	Chinese Simplified	100
+Physics	Acceleration Due to Gravity at the Space Station	R5CRZONOHCU	Chinese Simplified	100
+Physics	Deriving Displacement as a Function of Time, Acceleration and Initial Velocity	wlB0x9W-qBU	Chinese Simplified	100
+Physics	Gravitation (part 2)	8i0j3j16yFk	Chinese Simplified	100
+Physics	Doppler effect formula for observed frequency	kGrk6V8tWDY	Chinese Simplified	100
+Physics	Mach Numbers	VlaGxYjnoPY	Chinese Simplified	100
+Physics	Parabolic Mirrors and Real Images	8X1AS9qD5AQ	Chinese Simplified	100
+Physics	Introduction to Harmonic Motion	Nk2q-_jkJVs	Chinese Simplified	100
+Physics	Cross Product and Torque	s38l6nmTrvM	Chinese Simplified	100
+Physics	Projectile Motion with Unit Vectors	oYpEaB9_am8	Chinese Simplified	100
+Physics	Circuits (part 3)	ZrMw7P6P2Gw	Chinese Simplified	100
+Physics	Magnetism 8	4tctB1wZNiI	Chinese Simplified	100
+Physics	Doppler effect formula when source is moving away	KkJ0wL9f2VY	Chinese Simplified	100
+Physics	Snell's Law Examples 1	HahjsBApxLE	Chinese Simplified	100
+Physics	Snell's Law Example 2	10LuSfZZa3E	Chinese Simplified	100
+Physics	Work and Energy (part 2)	3mier94pbnU	Chinese Simplified	100
+Physics	Centripetal Force and Acceleration Intuition	vZOk8NnjILg	Chinese Simplified	100
+Physics	Momentum: Ice skater throws a ball	vPkkCOlGND4	Chinese Simplified	100
+Physics	Intro to springs and Hooke's Law	ZzwuHS9ldbY	Chinese Simplified	100
+Physics	Projectile motion (part 3)	Y5cSGxdDHz4	Chinese Simplified	100
+Physics	Calculus proof of centripetal acceleration formula	XjCEumlJBno	Chinese Simplified	100
+Physics	Visual Understanding of Centripetal Acceleration Formula	NH1_sO8QY3o	Chinese Simplified	100
+Physics	Moving pulley problem (part 2)	aHro1hCjukQ	Chinese Simplified	100
+Physics	2-dimensional momentum problem (part 2)	leudxqivIJI	Chinese Simplified	100
+Physics	Introduction to work and energy	2WS1sG9fhOk	Chinese Simplified	100
+Physics	Moments (part 2)	peXbz0frV74	Chinese Simplified	100
+Physics	Conservation of angular momemtum	s_R8d3isJDA	Chinese Simplified	100
+Physics	Unit Vectors and Engineering Notation	2QjdcVTgTTA	Chinese Simplified	100
+Physics	Optimal angle for a projectile part 3 - Horizontal distance as a function of angle (and speed)	-h_x8TwC1ik	Chinese Simplified	100
+Physics	Projectile motion (part 4)	-W3RkgvLrGI	Chinese Simplified	100
+Physics	Potential energy stored in a spring	eVl5zs6Lqy0	Chinese Simplified	100
+Physics	Spring potential energy example (mistake in math)	P3QV9ktuYlQ	Chinese Simplified	100
+Physics	Fluids (part 4)	i6gz9VFyYks	Chinese Simplified	100
+Physics	Thermodynamics (part 2)	x34OTtDE5q8	Chinese Simplified	100
+Physics	Magnetism 10: Electric Motors	cePkWyXRvIQ	Chinese Simplified	100
+Physics	Amplitude, Period, Frequency and Wavelength of Periodic Waves	tJW_a6JeXD8	Chinese Simplified	100
+Physics	Total Internal Reflection	WRuatAcd2WY	Chinese Simplified	100
+Physics	Unit Vector Notation (part 2)	595Tiga1gIg	Chinese Simplified	100
+Physics	Loop De Loop Question	wjZb3zPuoeA	Chinese Simplified	100
+Physics	Solving for Time	awzOvyMKeMA	Chinese Simplified	100
+Physics	Airbus A380 Take-off Distance	fQt69_Q2CTw	Chinese Simplified	100
+Physics	Correction to Total Final Velocity for Projectile	DNoDJlB0ygU	Chinese Simplified	100
+Physics	Proof (Advanced): Field from infinite plate (part 2)	TxwE4_dXo8s	Chinese Simplified	100
+Physics	Magnetism 2	NnlAI4ZiUrQ	Chinese Simplified	100
+Physics	Magnetism 12: Induced Current in a Wire	KuUMUvwvML8	Chinese Simplified	100
+Physics	Average Velocity for Constant Acceleration	MAS6mBRZZXA	Chinese Simplified	100
+Physics	Fluids (part 5)	vzID7ds600c	Chinese Simplified	100
+Physics	The dot product	KDHuWxy53uM	Chinese Simplified	100
+Exponents (basic)	Understanding Exponents 2	5qfOViJda_g	Chinese Simplified	100
+Exponents (basic)	Understanding Exponents	mJ1P4A-KA8k	Chinese Simplified	100
+History	US History Overview 3 - WWII to Vietnam	j2eKaxU-8kA	Chinese Simplified	100
+History	20th Century Capitalism and Regulation in the United States	J33nVRyTeyU	Chinese Simplified	100
+History	Haitian Revolution (Part 1)	Qz5zFzvbib4	Chinese Simplified	100
+History	Haitian Revolution (Part 2)	gU-5bjpAPmA	Chinese Simplified	100
+History	Vietnam War	9e9GWdT2pEQ	Chinese Simplified	100
+History	US History Overview 1: Jamestown to the Civil War	ghgPq2wjQUQ	Chinese Simplified	100
+History	Appomattox Court House and Lincoln's Assassination	Frpq_A7Ky_Q	Chinese Simplified	100
+History	Communism	MmRgMAZyYN0	Chinese Simplified	100
+Systems of equations and inequalities	systems of equations	nok99JOhcjo	Chinese Simplified	100
+Systems of equations and inequalities	Passing Trains	qLLjD-g_9ms	Chinese Simplified	100
+Systems of equations and inequalities	Overtaking Word Problem	LYWUHaWwY0c	Chinese Simplified	100
+Systems of equations and inequalities	Two Passing Bicycles Word Problem	Nx4Xk5S4HQA	Chinese Simplified	100
+Systems of equations and inequalities	Passed Bike Word Problem	P03ljxjy8Nw	Chinese Simplified	100
+Systems of equations and inequalities	Officer on Horseback	IPJAi5zWu9U	Chinese Simplified	100
+Introduction to Euclidean geometry	Identifying Parallel and Perpendicular Lines	aq_XL6FrmGs	Chinese Simplified	100
+Introduction to Euclidean geometry	Identifying Rays	w9jEq6dmqPg	Chinese Simplified	100
+Introduction to Euclidean geometry	Language and Notation of Basic Geometry	il0EJrY64qE	Chinese Simplified	100
+Angles	Triangle Angle Example 3	iqeGTtyzQ1I	Chinese Simplified	100
+Angles	Angles (part 2)	zrqzG6xKa1A	Chinese Simplified	100
+Angles	Introduction to angles (old)	2439OIVBgPg	Chinese Simplified	100
+Angles	More on why SSA is not a postulate	f8svAm237xM	Chinese Simplified	100
+Angles	Triangle Angle Example 2	eTwnt4G5xE4	Chinese Simplified	100
+Angles	Triangle Angle Example 1	hmj3_zbz2eg	Chinese Simplified	100
+Angles	2003 AIME II Problem 7	jpKjXtywTlQ	Chinese Simplified	100
+Angles	Proof - Sum of Measures of Angles in a Triangle are 180	OPG-9IFnJnI	Chinese Simplified	100
+Percents	Growing by a percentage	X2jVap1YgwI	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 3 Part 4	THu1yyU350A	Chinese Simplified	100
+SAT Math	SAT Prep: Test 2 Section 3 Part 2	jG_R8MyQ53U	Chinese Simplified	100
+SAT Math	SAT prep: test 1 section3 part 1	tP9bocr_C2I	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 3 Part 5	Pj-dYWwdlDA	Chinese Simplified	100
+SAT Math	SAT Prep: Test 2 Section 3 Part 3	x7RYmTE3X-Y	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 3 Part 6	I1CPivr1Rqs	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 3 Part 7	r_MPl6c23cc	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 3 Part 8	281GDzKgNIw	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 6 Part 6	-UtUjx4nj-E	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 9  Part 5	QWtZ9jpN_3k	Chinese Simplified	100
+SAT Math	SAT Prep: Test 2 Section 9 Part 1	oVkzin26KJk	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 6 Part 3	qCFS9sM3U4w	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 9 Part 4	5tptL-SjfHY	Chinese Simplified	100
+SAT Math	SAT Prep: Test 2 Section 3 Part 4	t9_by0bbp48	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 6 Part 1	VUY_9-dl9Ro	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 6 Part 2	EWsVUf6ZFgw	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 6 Part 5	zYltrrFpuRU	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 9 Part 3	D4UfrKzUVz8	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 9 Part 2	fX0ZVflYqf0	Chinese Simplified	100
+SAT Math	SAT Prep: Test 1 Section 6 Part 4	j-G31l9tETk	Chinese Simplified	100
+SAT Math	SAT Prep: Test 2 Section 3 part 1	0QvGgONYDeA	Chinese Simplified	100
+SAT Math	SAT Prep: Test 2 Section 3 Part 5	oRWMtRqR6yc	Chinese Simplified	100
+SAT Math	SAT Prep: Test 2 Section 3 Part 6	FEEsj1puK9k	Chinese Simplified	100
+Logarithms	Proof: log_a (B) = (log_x (B))/(log_x (A))	cKOtT4WnZb4	Chinese Simplified	100
+Trigonometry	Radians and degrees	9zspW8u6kQM	Chinese Simplified	100
+Trigonometry	Basic Trigonometry	Jsiy4TxgIME	Chinese Simplified	100
+Trigonometry	Basic Trigonometry II	G-T_6hCdMQc	Chinese Simplified	100
+Trigonometry	Proof: Law of Sines	APNkWrD-U1k	Chinese Simplified	100
+Trigonometry	Graph of the sine function	2zoiW4PdVKo	Chinese Simplified	100
+Trigonometry	Trigonometric System Example	Y2ed-g8Lpdc	Chinese Simplified	100
+Trigonometry	2003 AIME II Problem 14	Ec-BKdC8vOo	Chinese Simplified	100
+Trigonometry	Inverse Trig Functions: Arcsin	JGU74wbZMLg	Chinese Simplified	100
+Trigonometry	Trigonometry Identity Review/Fun	a70-dYvDJZY	Chinese Simplified	100
+Trigonometry	2003 AIME II Problem 11.avi	smtrrefmC40	Chinese Simplified	100
+Trigonometry	Inverse Trig Functions: Arctan	Idxeo49szW0	Chinese Simplified	100
+Trigonometry	IIT JEE Trigonometric Maximum	tzR9jUCSniQ	Chinese Simplified	100
+Trigonometry	Graphs of trig functions	QmxMPPkZpME	Chinese Simplified	100
+Trigonometry	Determining the equation of a trigonometric function	yvW5l9W1hgE	Chinese Simplified	100
+Trigonometry	Trig identies part 3 (part 5 if you watch the proofs)	JXCiFbEMTZ4	Chinese Simplified	100
+Trigonometry	Ferris Wheel Trig Problem (part 2)	_Kw4hLGMkm4	Chinese Simplified	100
+Trigonometry	Fun Trig Problem	itpI12TeNIg	Chinese Simplified	100
+Trigonometry	Using Trig Functions Part II	RoXmKYjpLGk	Chinese Simplified	100
+Trigonometry	Unit Circle Definition of Trig Functions	ZffZvSH285c	Chinese Simplified	100
+Trigonometry	Trigonometry word problems (part 2)	4CNnPgabrLE	Chinese Simplified	100
+Trigonometry	Proof: sin(a+b)  = (cos a)(sin b) + (sin a)(cos b)	zw0waJCEc-w	Chinese Simplified	100
+Trigonometry	Polar Coordinates 1	jexMSlSDubM	Chinese Simplified	100
+Trigonometry	Proof: cos(a+b) = (cos a)(cos b)-(sin a)(sin b)	V3-xCPDzQ1Q	Chinese Simplified	100
+Trigonometry	Trigonometry word problems (part 1)	1vamogV81Y8	Chinese Simplified	100
+Trigonometry	IIT JEE Trigonometric Constraints	EjtjdJZ2x8w	Chinese Simplified	100
+Trigonometry	Tau versus Pi	1jDDfkKKgmc	Chinese Simplified	100
+Trigonometry	IIT JEE Trigonometry Problem 1	X7GT9JKoAbo	Chinese Simplified	100
+Trigonometry	Inverse Trig Functions: Arccos	eTDaJ4ebK28	Chinese Simplified	100
+Trigonometry	More trig graphs	NIG3l8oWKYE	Chinese Simplified	100
+Trigonometry	Trig identities part 2 (parr 4 if you watch the proofs)	ZWSoyUxAQW0	Chinese Simplified	100
+Trigonometry	Graphing trig functions	vHYI93UV5Kg	Chinese Simplified	100
+Trigonometry	Ferris Wheel Trig Problem	clXSqjs1wgQ	Chinese Simplified	100
+Trigonometry	Trigonometric Identities	OLzXqIqZZz0	Chinese Simplified	100
+Trigonometry	Using Trig Functions	znR9tW4AiZI	Chinese Simplified	100
+Trigonometry	Navigation Word Problem	XTWZ_M8d-4g	Chinese Simplified	100
+Trigonometry	Polar Coordinates 2	zGpbSGj_vfE	Chinese Simplified	100
+Trigonometry	The unit circle definition of trigonometric function	6Qv_bPlQS8E	Chinese Simplified	100
+Trigonometry	Polar Coordinates 3	9iqN12hCn10	Chinese Simplified	100
+Trigonometry	Law of cosines	pGaDcOMdw48	Chinese Simplified	100
+Circles	Right Triangles Inscribed in Circles (Proof)	b0U1NxbRU4w	Chinese Simplified	100
+Circles	Incenter and incircles of a triangle	21vbBiCVijE	Chinese Simplified	100
+Cosmology and Astronomy	Scale of Earth and  Sun	GZx3U0dbASg	Chinese Simplified	100
+Cosmology and Astronomy	Scale of Solar System	GP53b__h4ew	Chinese Simplified	100
+Talks and Interviews	Salman Khan Speaks at GEL (Good Experience Live) Conference	yTXKCzrFh3c	Chinese Simplified	100
+Statistics	Statistics: Variance of a Population	6JFzI1DDyyk	Chinese Simplified	100
+Statistics	Contingency Table Chi-Square Test	hpWdDmgsIRE	Chinese Simplified	100
+Statistics	Binomial Distribution 1	O12yTz_8EOw	Chinese Simplified	100
+Statistics	Covariance and the Regression Line	ualmyZiPs9w	Chinese Simplified	100
+Statistics	Statistics: Sample vs. Population Mean	hsPCte_PcVA	Chinese Simplified	100
+Statistics	Law of Large Numbers	VpuN8vCQ--M	Chinese Simplified	100
+Statistics	Reading Pie Graphs (Circle Graphs)	4JqH55rLGKY	Chinese Simplified	100
+Statistics	Misleading Line Graphs	gs-OPF3KEGU	Chinese Simplified	100
+Statistics	Binomial Distribution 2	FI8xtVaI068	Chinese Simplified	100
+Statistics	Poisson Process 1	3z-M6sbGIZ0	Chinese Simplified	100
+Statistics	ck12.org Normal Distribution Problems: Qualitative sense of normal distributions	79duxPXpyKQ	Chinese Simplified	100
+Statistics	Sampling Distribution of the Sample Mean 2	NYd6wzYkQIM	Chinese Simplified	100
+Statistics	Z-statistics vs. T-statistics	5ABpqVSx33I	Chinese Simplified	100
+Statistics	Proof Part 2 Minimizing Squared Error to Line	f6OnoxctvUk	Chinese Simplified	100
+Statistics	Binomial Distribution 3	vKNpQ_KTXvE	Chinese Simplified	100
+Statistics	Sampling Distribution of the Sample Mean	FXZ2O1Lv-KE	Chinese Simplified	100
+Statistics	Bernoulli Distribution Mean and Variance Formulas	ry81_iSHt6E	Chinese Simplified	100
+Statistics	Margin of Error 2	YclQE2XtaLw	Chinese Simplified	100
+Statistics	T-Statistic Confidence Interval	hV4pdjHCKuA	Chinese Simplified	100
+Statistics	Variance of Differences of Random Variables	rLdoKZ7w0xI	Chinese Simplified	100
+Statistics	Confidence Interval of Difference of Means	hxZ6uooEJOk	Chinese Simplified	100
+Statistics	Second Regression Example	ww_yT9ckPWw	Chinese Simplified	100
+Statistics	Deductive Reasoning 2	VMEV__2wW3E	Chinese Simplified	100
+Statistics	Inductive Reasoning 2	ZSsBh4Ybbj8	Chinese Simplified	100
+Statistics	Confidence Interval 1	bekNKJoxYbQ	Chinese Simplified	100
+Statistics	Comparing Population Proportions 1	a1Ye5RcWOqg	Chinese Simplified	100
+Statistics	Normal Distribution Excel Exercise	yTGEMoaWDCQ	Chinese Simplified	100
+Statistics	ck12.org Normal Distribution Problems: Empirical Rule	OhRr26AfFBU	Chinese Simplified	100
+Statistics	ck12.org Exercise: Standard Normal Distribution and the Empirical Rule	2fzYE-Emar0	Chinese Simplified	100
+Statistics	Clarification of Confidence Interval of Difference of Means	yQsCMnz9wO8	Chinese Simplified	100
+Statistics	Pearson's Chi Square Test (Goodness of Fit)	2QeDRsxSF9M	Chinese Simplified	100
+Statistics	Statistics: The Average	uhxtUt_-GyM	Chinese Simplified	100
+Statistics	Introduction to Random Variables	IYdiKeQ9xEI	Chinese Simplified	100
+Statistics	Expected Value of Binomial Distribution	SqcxYnNlI3Y	Chinese Simplified	100
+Statistics	Standard Error of the Mean	J1twbrHel3o	Chinese Simplified	100
+Statistics	Comparing Population Proportions 2	MNbat1lrJW4	Chinese Simplified	100
+Statistics	Hypothesis Test Comparing Population Proportions	dvSa_tx04hw	Chinese Simplified	100
+Statistics	U03_L1_T1_we2 Inductive Patterns	GvbrtnEYRpY	Chinese Simplified	100
+Statistics	u08_l1_t2_we2 Reading Line Graphs	36v2EXZRzUE	Chinese Simplified	100
+Statistics	Poisson Process 2	Jkr4FSrNEVY	Chinese Simplified	100
+Statistics	Proof (Part 1) Minimizing Squared Error to Regression Line	mIx2Oj5y9Q8	Chinese Simplified	100
+Statistics	Proof (Part 4) Minimizing Squared Error to Regression Line	8RSTQl0bQuw	Chinese Simplified	100
+Statistics	ANOVA 1 - Calculating SST (Total Sum of Squares)	EFdlFoHI_0I	Chinese Simplified	100
+Statistics	Probability Density Functions	Fvi9A_tEmXQ	Chinese Simplified	100
+Statistics	Large Sample Proportion Hypothesis Testing	1JT9oODsClE	Chinese Simplified	100
+Statistics	Hypothesis Test for Difference of Means	N984XGLjQfs	Chinese Simplified	100
+Statistics	R-Squared or Coefficient of Determination	lng4ZgConCM	Chinese Simplified	100
+Statistics	Binomial Distribution 4	H0ZgOGWUcJw	Chinese Simplified	100
+Statistics	U12_L1_T3_we1 Inductive Reasoning 1	MnQ7Lizkpqk	Chinese Simplified	100
+Statistics	Inductive Reasoning 3	pgfWkaySFGY	Chinese Simplified	100
+Statistics	Box-and-Whisker Plots	-M0Fi0ijnJs	Chinese Simplified	100
+Statistics	Confidence Interval Example	SeQeYVJZ2gE	Chinese Simplified	100
+Statistics	Small Sample Size Confidence Intervals	K4KDLWENXm0	Chinese Simplified	100
+Statistics	One-Tailed and Two-Tailed Tests	mvye6X_0upA	Chinese Simplified	100
+Statistics	ANOVA 2 - Calculating SSW and SSB (Total Sum of Squares Within and Between).avi	j9ZPMlVHJVs	Chinese Simplified	100
+Statistics	ck12.org: More Empirical Rule and Z-score practice	itQEwESWDKg	Chinese Simplified	100
+Statistics	Squared Error of Regression Line	6OvhLPS7rj4	Chinese Simplified	100
+Statistics	Deductive Reasoning 1	GEId0GonOZM	Chinese Simplified	100
+Statistics	Deductive Reasoning 3	lYLaaMObgkw	Chinese Simplified	100
+Statistics	Difference of Sample Means Distribution	TcIDXqmt74A	Chinese Simplified	100
+Statistics	Reading Pictographs	qrVvpYt3Vl0	Chinese Simplified	100
+Statistics	ck12.org Normal Distribution Problems: z-score	Wp2nVIzBsE8	Chinese Simplified	100
+Statistics	Central Limit Theorem	JNm3M9cqWyc	Chinese Simplified	100
+Statistics	Mean and Variance of Bernoulli Distribution Example	O8vB1eInP_8	Chinese Simplified	100
+Statistics	Hypothesis Testing and P-values	-FtlH4svqx4	Chinese Simplified	100
+Statistics	Correlation and Causality	ROpbdO-gRUo	Chinese Simplified	100
+Statistics	Mean Median and Mode	k3aKKasOmIw	Chinese Simplified	100
+Statistics	Range and Mid-range	7DtWXEPB_AI	Chinese Simplified	100
+Statistics	Statistics: Alternate Variance Formulas	sRVGcYGjUk8	Chinese Simplified	100
+Statistics	Sampling Distribution Example Problem	0ZstEh_8bYc	Chinese Simplified	100
+Statistics	Small Sample Hypothesis Test	D2sMsmL0ScQ	Chinese Simplified	100
+Statistics	Calculating R-Squared	Fc5t_5r_7IU	Chinese Simplified	100
+Statistics	Chi-Square Distribution Introduction	dXB3cUGnaxQ	Chinese Simplified	100
+Statistics	Reading Bar Graphs	kiQ6MUQZHSs	Chinese Simplified	100
+Statistics	Reading Box-and-Whisker Plots	b2C9I8HuCe4	Chinese Simplified	100
+Statistics	Expected Value: E(X)	j__Kredt7vY	Chinese Simplified	100
+Statistics	Introduction to the Normal Distribution	hgtMWR3TFnY	Chinese Simplified	100
+Statistics	Type 1 Errors	EowIec7Y8HM	Chinese Simplified	100
+Statistics	Proof (Part 3) Minimizing Squared Error to Regression Line	u1HhUB3NP8g	Chinese Simplified	100
+Statistics	Regression Line Example	GAmzwIkGFgE	Chinese Simplified	100
+Solving linear equations	More percent problems	4oeoIOan_h4	Chinese Simplified	100
+Solving linear equations	Variables Expressions and Equations	vDqOoI-4Z6M	Chinese Simplified	100
+Solving linear equations	Algebra: Linear Equations 1	bAerID24QJ0	Chinese Simplified	100
+Solving linear equations	Solving One-Step Equations 2	DqeMQHomwAU	Chinese Simplified	100
+Solving linear equations	Algebra: Linear Equations 4	9IUEk9fn2Vs	Chinese Simplified	100
+Solving linear equations	Coverting Repeating Decimals to Fractions 2	Ihws0d-WLzU	Chinese Simplified	100
+Solving linear equations	Averages	9VZsMY15xeU	Chinese Simplified	100
+Solving linear equations	Early Train Word Problem	uA3m8vbd2wc	Chinese Simplified	100
+Solving linear equations	Age word problems 3	DplUpe3oyWo	Chinese Simplified	100
+Solving linear equations	Simple Equations	9Ek61w1LxSc	Chinese Simplified	100
+Solving linear equations	Equations 3	f15zA0PhSek	Chinese Simplified	100
+Solving linear equations	Growing by a percentage	X2jVap1YgwI	Chinese Simplified	100
+Solving linear equations	Age word problems 1	bAUT_Pux73w	Chinese Simplified	100
+Solving linear equations	Age word problems 2	pPqPj8CAPvI	Chinese Simplified	100
+Solving linear equations	Equations 2	XoEn1LfVoTo	Chinese Simplified	100
+Solving linear equations	Integer sums	W254ewkkMck	Chinese Simplified	100
+Solving linear equations	Writing Proportions	96ZEmUbnuU8	Chinese Simplified	100
+Probability	Basic Probability	uzkc-qNVoOk	Chinese Simplified	100
+Probability	Law of Large Numbers	VpuN8vCQ--M	Chinese Simplified	100
+Probability	Frequency Probability and Unfair Coins	RI874OSJp1U	Chinese Simplified	100
+Probability	Term Life Insurance and Death Probability	NSSoMafbBqQ	Chinese Simplified	100
+Probability	Combinations	bCxMhncR7PU	Chinese Simplified	100
+Probability	LeBron asks about the chances of making 10 free throws	iMqCSgqzmiQ	Chinese Simplified	100
+Probability	Binomial Distribution 1	O12yTz_8EOw	Chinese Simplified	100
+Probability	Simple Probability	yUaI0JriZtY	Chinese Simplified	100
+Probability	Addition Rule for Probability	QE2uR6Z-NcU	Chinese Simplified	100
+Probability	Permutations and Combinations 3	SbpoyXTpC84	Chinese Simplified	100
+Probability	Poisson Process 1	3z-M6sbGIZ0	Chinese Simplified	100
+Probability	Birthday Probability Problem	9G0w61pZPig	Chinese Simplified	100
+Probability	Probability (part 7)	BLcgeLALLnc	Chinese Simplified	100
+Probability	Compound Probability of Independent Events	xSc4oLA9e8o	Chinese Simplified	100
+Probability	Dependent Probability Example 2	7BkcNLOf56w	Chinese Simplified	100
+Probability	Probability using Combinations	Xqfcy1rqMbI	Chinese Simplified	100
+Probability	Conditional Probability and Combinations	xw6utjoyMi4	Chinese Simplified	100
+Probability	Binomial Distribution 4	H0ZgOGWUcJw	Chinese Simplified	100
+Probability	Probability 1 Module Examples	mLE-SlOZToc	Chinese Simplified	100
+Probability	Generalizing with Binomial Coefficients (bit advanced)	AOsWph2FNLw	Chinese Simplified	100
+Probability	Events and Outcomes 1	cdRLBOnLTDk	Chinese Simplified	100
+Probability	Permutations and Combinations 4	DIjlllgq3dc	Chinese Simplified	100
+Probability	Probability of Dependent Events 2	ccrYD6iX_SY	Chinese Simplified	100
+Probability	Dependent Probability Example 1	xPUm5SUVzTE	Chinese Simplified	100
+Probability	Getting Exactly Two Heads (Combinatorics)	8TIben0bJpU	Chinese Simplified	100
+Probability	Probability of More Complex Outcome	zlqvSLvhIXE	Chinese Simplified	100
+Probability	Introduction to Random Variables	IYdiKeQ9xEI	Chinese Simplified	100
+Probability	Events and Outcomes 3	3_otNr9kRuY	Chinese Simplified	100
+Probability	Permutations and Combinations 1	oQpKtm5TtxU	Chinese Simplified	100
+Probability	Probability Density Functions	Fvi9A_tEmXQ	Chinese Simplified	100
+Probability	Binomial Distribution 2	FI8xtVaI068	Chinese Simplified	100
+Probability	Expected Value of Binomial Distribution	SqcxYnNlI3Y	Chinese Simplified	100
+Probability	Poisson Process 2	Jkr4FSrNEVY	Chinese Simplified	100
+Probability	Permutations	XqQTXW7XfYA	Chinese Simplified	100
+Probability	Probability and Combinations (part 2)	W7DmsJKLoxc	Chinese Simplified	100
+Probability	Expected Value: E(X)	j__Kredt7vY	Chinese Simplified	100
+Probability	Independent Events 1	Za7G_eWKiF4	Chinese Simplified	100
+Probability	Independent Events 2	VWAfEbgf1Po	Chinese Simplified	100
+Probability	Probability (part 3)	wBDOCvHYckE	Chinese Simplified	100
+Probability	Mega Millions Jackpot Probability	gyqodNhM3EU	Chinese Simplified	100
+Probability	Binomial Distribution 3	vKNpQ_KTXvE	Chinese Simplified	100
+Probability	Independent Events 3	2MYA8Ba2PvM	Chinese Simplified	100
+Probability	Exactly Three Heads in Five Flips	udG9KhNMKJw	Chinese Simplified	100
+Probability	Probability (part 4)	W581OBM9rAY	Chinese Simplified	100
+Probability	Coin Flipping Example	3UlE8gyKbkU	Chinese Simplified	100
+Probability	Events and Outcomes 2	vB4FuGmfEGY	Chinese Simplified	100
+Probability	Getting At Least One Heads	mkyZ45KQYi4	Chinese Simplified	100
+Probability	Permutations and Combinations 2	v9NLtiVt3XY	Chinese Simplified	100
+Probability	Probability of Dependent Events	l9ft9jpriNA	Chinese Simplified	100
+Probability	Probability (part 5)	2XToWi9j0Tk	Chinese Simplified	100
+Quadratics	Quadratic Formula (proof)	mDmRYfma9C0	Chinese Simplified	100
+Quadratics	Introduction to the quadratic equation	IWigvJcCAJ0	Chinese Simplified	100
+Precalculus	Introduction to interest	GtaoP0skPWc	Chinese Simplified	100
+Precalculus	Limit Examples (part 1)	GGQngIp0YGI	Chinese Simplified	100
+Precalculus	Introduction to Function Inverses	W84lObmOp8M	Chinese Simplified	100
+Precalculus	Interest (part 2)	t4zfiBw0hwM	Chinese Simplified	100
+Precalculus	Polar Coordinates 2	zGpbSGj_vfE	Chinese Simplified	100
+Precalculus	Introduction to Limits	W0VWO4asgmk	Chinese Simplified	100
+Precalculus	Polar Coordinates 3	9iqN12hCn10	Chinese Simplified	100
+Precalculus	Polar Coordinates 1	jexMSlSDubM	Chinese Simplified	100
+Precalculus	Function Inverses Example 3	Bq9cq9FZuNM	Chinese Simplified	100
+Precalculus	Sequences and series (part 2)	U_8GRLJplZg	Chinese Simplified	100
+Precalculus	Introduction to Limits (HD)	riXcZT2ICjA	Chinese Simplified	100
+Precalculus	Limit Examples w/ brain malfunction on first prob (part 4)	xjkSE9cPqzo	Chinese Simplified	100
+Precalculus	Combinations	bCxMhncR7PU	Chinese Simplified	100
+Precalculus	Permutations	XqQTXW7XfYA	Chinese Simplified	100
+Ratios & proportions	Advanced ratio problems	PASSD2OcU0c	Chinese Simplified	100
+Ratios & proportions	Ratio problem with basic algebra (new HD)	ITVQrzDSekU	Chinese Simplified	100
+Ratios & proportions	More advanced ratio problem--with Algebra (HD version)	ItA_hhRtUuw	Chinese Simplified	100
+Ratios & proportions	Rational Inequalities 2	2RnS3fSHVV8	Chinese Simplified	100
+Ratios & proportions	Introduction to Ratios (new HD version)	HpdMJaKaXXc	Chinese Simplified	100
+Ratios & proportions	Writing Proportions	96ZEmUbnuU8	Chinese Simplified	100
+Macroeconomics	Deflation	FPh6EDv0Eew	Chinese Simplified	100
+Macroeconomics	Deflationary Spiral	snX4Wf7PGts	Chinese Simplified	100
+Macroeconomics	Stagflation	bTz_tx460EY	Chinese Simplified	100
+Macroeconomics	Unemployment Rate Primer	9DGbDx5xQNo	Chinese Simplified	100
+Macroeconomics	Real and Nominal Return	cNm196bVE5A	Chinese Simplified	100
+Microeconomics	Increasing Opportunity Cost	00fgAG6VrRQ	Chinese Simplified	100
+Microeconomics	Production Possibilities Frontier	_7VHfuWV-Qg	Chinese Simplified	100
+Microeconomics	Factors Affecting Supply	0isM0GF-rMI	Chinese Simplified	100
+Microeconomics	Marginal Utility	Kf9KhwryQNE	Chinese Simplified	100
+Microeconomics	Monopoly Basics	77CApfQlTuE	Chinese Simplified	100
+Microeconomics	Marginal Revenue and Marginal Cost	xGkE0oHyNhk	Chinese Simplified	100
+Microeconomics	Negative Externalities	nBw6KvU51BE	Chinese Simplified	100
+Microeconomics	Law of Supply	3xCzhdVtdMI	Chinese Simplified	100
+Microeconomics	Marginal Revenue Below Average Total Cost	ni0TL4pXG5w	Chinese Simplified	100
+Microeconomics	Opportunity Cost	pkEiHZAtoro	Chinese Simplified	100
+Journey into Cryptography	Part 2: The Fundamental Theorem of Arithmetic	8CluknrLeys	Chinese Simplified	100
+Journey into Cryptography	Part 6: Polyalphabetic Cipher	BgFJD7oCmDE	Chinese Simplified	100
+Journey into Cryptography	Part 7: One-time pad	FlIG3TvQCBQ	Chinese Simplified	100
+Journey into Cryptography	Part 5: Caesar Cipher	sMOZf4GN3oc	Chinese Simplified	100
+Journey into Cryptography	Part 8: Case Study: WW2 Encryption Machines	2cqbeSVhLBM	Chinese Simplified	100
+Journey into Cryptography	Part 1: Intro to Cryptography	Kf9KjCKmDcU	Chinese Simplified	100
+Journey into Cryptography	Part 3: Probability Space	1dPMsJ7I6BY	Chinese Simplified	100
+Journey into Cryptography	Part 4: Frequency Stability	vVXbgbMp0oY	Chinese Simplified	100
+Journey into Cryptography	Part 10: Pseudorandom Number Generators	itaMNuWLzJo	Chinese Simplified	100
+Journey into Cryptography	Part 11: Diffie-Hellman key exchange	YEBfamv-_do	Chinese Simplified	100
+Journey into Cryptography	Part 9: Perfect Secrecy	cAt6MYoGqJ4	Chinese Simplified	100
